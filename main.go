@@ -56,51 +56,10 @@ func main() {
 		log.Fatalf("Failed to set request headers: %v", err)
 	}
 
-	// // Создаем клиент Redis
-	// client := redis.NewClient(&redis.Options{
-	// 	Addr:     "localhost:6379",
-	// 	Password: "", // если у вас есть пароль
-	// 	DB:       0,  // выберите базу данных
-	// })
-	// defer client.Close()
-
-	// // Получаем сессионные данные из Redis
-	// var ctx = context.Background()
-	// sessionData, err := util.LoadSessionFromRedis(ctx, client, "session_key")
-	// if err != nil {
-	// 	if errors.Is(err, redis.Nil) {
-	// 		fmt.Println("Session data not found in Redis. Skipping session loading.")
-	// 	} else {
-	// 		log.Printf(" to load session from Redis: %v", err)
-	// 	}
-	// } else {
-	// 	println("Before applySessionToWebsite")
-
-	// 	if err := util.ApplySessionToWebsite(wd, sessionData); err != nil {
-	// 		log.Fatalf("Failed to apply session to website: %v", err)
-	// 	}
-	// }
-
 	if err := wd.Get(cfg.BaseURL); err != nil {
 		Logger.Error("Ошибка при загрузке URL:", zap.Error(err))
 		return
 	}
-
-	// Сохраняем сессионные данные в Redis
-	// sessionData = map[string]interface{}{
-	// 	"user_id":   123,
-	// 	"user_name": "john_doe",
-	// }
-	// jsonData, err := json.Marshal(sessionData)
-	// if err != nil {
-	// 	log.Fatalf("Failed to serialize session data: %v", err)
-	// }
-
-	// // Сохраняем данные сессии в Redis с ключом "session_key"
-	// err = client.Set(ctx, "session_key", jsonData, 24*time.Hour).Err()
-	// if err != nil {
-	// 	log.Fatalf("Failed to save session data to Redis: %v", err)
-	// }
 
 	time.Sleep(10 * time.Second)
 
@@ -154,7 +113,7 @@ func main() {
 	}
 	println("1111111111111111", 1)
 
-	time.Sleep(1000 * time.Second)
+	time.Sleep(5 * time.Second)
 
 	// Ожидание загрузки элемента и клик по нему
 	elements, err = wd.FindElements(selenium.ByCSSSelector, ".AddressConfirmBadge_buttons__Ou9hW > ._button--theme_secondary_10nio_51 ._text_7xv2z_4")
@@ -167,8 +126,6 @@ func main() {
 		log.Fatalf("Ошибка при создании скриншота после клика: %v", err)
 	}
 
-	println("2222222222222222222")
-
 	if len(elements) == 0 {
 		fmt.Println("Элементы не найдены")
 		return
@@ -180,17 +137,13 @@ func main() {
 		return
 	}
 
-	println("33333333333333333")
-
-	time.Sleep(10 * time.Second)
+	time.Sleep(3 * time.Second)
 	var input selenium.WebElement
 
 	input, err = wd.FindElement(selenium.ByCSSSelector, "input._textInput_1frhv_1")
 	if err != nil {
 		log.Fatal(err)
 	}
-
-	println("444444444444444444")
 
 	err = input.SendKeys(cfg.City)
 	if err != nil {
