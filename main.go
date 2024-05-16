@@ -8,7 +8,6 @@ import (
 	"time"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/go-vgo/robotgo"
 
 	"github.com/tebeka/selenium"
 	"go.uber.org/zap"
@@ -137,37 +136,17 @@ func main() {
 		}
 	}
 
-	doc, err := goquery.NewDocument(cfg.BaseURL)
-	if err != nil {
-		log.Fatal(err)
-	}
-	println("ИЩЕМ!!!!")
-
-	findElement(doc.Children(), "Нет, другой")
-
-	// Ищем элементы, содержащие текст "Ваш город"
-
-	// if err := wd.Get(cfg.BaseURL); err != nil {
-	// 	fmt.Println("Ошибка загрузки страницы:", err)
-	// 	return
-	// }
-
-	// _, err = wd.ExecuteScript("window.scrollTo(0, document.body.scrollHeight);", nil)
-	// if err != nil {
-	// 	log.Fatalf("Failed to scroll page: %v", err)
-	// }
-
 	// Получаем размеры экрана
-	width, height := robotgo.GetScreenSize()
-	println("Ширина экрана:", width)
-	println("Высота экрана:", height)
-	newX := width * 7 / 8 // 1/8 экрана от правого края
-	newY := height / 2    // По середине по вертикали
+	// width, height := robotgo.GetScreenSize()
+	// println("Ширина экрана:", width)
+	// println("Высота экрана:", height)
+	// newX := width * 7 / 8 // 1/8 экрана от правого края
+	// newY := height / 2    // По середине по вертикали
 
-	// Перемещаем курсор
-	robotgo.Move(newX, newY)
-	robotgo.Click()
-	time.Sleep(15 * time.Second)
+	// // Перемещаем курсор
+	// robotgo.Move(newX, newY)
+	// robotgo.Click()
+	// time.Sleep(15 * time.Second)
 
 	filename := fmt.Sprintf("screenshot_%d.png", 1) // Создаем уникальное имя файла с помощью значения переменной i
 	if err := util.TakeScreenshot(wd, filename); err != nil {
@@ -482,24 +461,4 @@ func main() {
 	// //	Пауза для просмотра результатов
 	time.Sleep(2 * time.Second)
 
-}
-
-func findElement(selection *goquery.Selection, searchText string) {
-	selection.Each(func(i int, s *goquery.Selection) {
-		// Проверяем текущий элемент
-		s.Each(func(_ int, attr *goquery.Selection) {
-			if attr.Nodes != nil {
-				for _, node := range attr.Nodes {
-					for _, attr := range node.Attr {
-						if attr.Key == "data-tid" {
-							fmt.Println("data-tid:", attr.Val)
-						}
-					}
-				}
-			}
-		})
-
-		// Рекурсивно вызываем функцию для поиска в дочерних элементах текущего элемента
-		findElement(s.Children(), searchText)
-	})
 }
