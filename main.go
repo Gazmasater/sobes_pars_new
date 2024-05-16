@@ -8,6 +8,7 @@ import (
 	"time"
 
 	"github.com/PuerkitoBio/goquery"
+	"github.com/go-vgo/robotgo"
 
 	"github.com/tebeka/selenium"
 	"go.uber.org/zap"
@@ -61,8 +62,6 @@ func main() {
 		return
 	}
 
-	time.Sleep(10 * time.Second)
-
 	elements, err := wd.FindElements(selenium.ByCSSSelector, "a")
 	if err != nil {
 		Logger.Error("Не найден элемент", zap.Error(err))
@@ -94,18 +93,19 @@ func main() {
 			data.CategoryLinks[link] = categoryName
 		}
 	}
+	time.Sleep(5 * time.Second)
 
 	// Получаем размеры экрана
-	// width, height := robotgo.GetScreenSize()
-	// println("Ширина экрана:", width)
-	// println("Высота экрана:", height)
-	// newX := width * 7 / 8 // 1/8 экрана от правого края
-	// newY := height / 2    // По середине по вертикали
+	width, height := robotgo.GetScreenSize()
+	println("Ширина экрана:", width)
+	println("Высота экрана:", height)
+	newX := width * 7 / 8 // 1/8 экрана от правого края
+	newY := height / 2    // По середине по вертикали
 
 	// // Перемещаем курсор
-	// robotgo.Move(newX, newY)
-	// robotgo.Click()
-	// time.Sleep(15 * time.Second)
+	robotgo.Move(newX, newY)
+	robotgo.Click()
+	time.Sleep(1000 * time.Second)
 
 	filename := fmt.Sprintf("screenshot_%d.png", 1) // Создаем уникальное имя файла с помощью значения переменной i
 	if err := util.TakeScreenshot(wd, filename); err != nil {
@@ -412,6 +412,6 @@ func main() {
 	println()
 
 	// //	Пауза для просмотра результатов
-	time.Sleep(2 * time.Second)
+	time.Sleep(2000 * time.Second)
 
 }
