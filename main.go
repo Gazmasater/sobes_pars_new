@@ -28,16 +28,6 @@ func main() {
 
 	Log_init()
 
-	file, err := os.Create("output.txt")
-	if err != nil {
-		fmt.Println("Ошибка при создании файла:", err)
-		return
-	}
-	defer file.Close()
-
-	writer := bufio.NewWriter(file)
-	defer writer.Flush()
-
 	configg := data.WebDriverConfig{
 		SeleniumPath:  data.SeleniumPath,
 		Port:          data.Port,
@@ -91,22 +81,12 @@ func main() {
 
 	time.Sleep(20 * time.Second)
 
-	filename := fmt.Sprintf("screenshot_%d.png", 1)
-	if err := util.TakeScreenshot(wd, filename); err != nil {
-		log.Fatalf("Ошибка при создании скриншота после клика: %v", err)
-	}
-	println("1111111111111111", 1)
-
 	time.Sleep(10 * time.Second)
 
 	elements, err = wd.FindElements(selenium.ByCSSSelector, ".AddressConfirmBadge_buttons__Ou9hW > ._button--theme_secondary_10nio_51 ._text_7xv2z_4")
 	if err != nil {
 		fmt.Println("Ошибка при поиске элементов:", err)
 		return
-	}
-
-	if err := util.TakeScreenshot(wd, "2.png"); err != nil {
-		log.Fatalf("Ошибка при создании скриншота после клика: %v", err)
 	}
 
 	if len(elements) == 0 {
@@ -239,6 +219,18 @@ func main() {
 		}
 	})
 
+	file_categ := fmt.Sprintf("%s.txt", data.CategoryMap[data.CategoryLinks[cfg.BaseURL]])
+
+	file, err := os.Create(file_categ)
+	if err != nil {
+		fmt.Println("Ошибка при создании файла:", err)
+		return
+	}
+	defer file.Close()
+
+	writer := bufio.NewWriter(file)
+	defer writer.Flush()
+
 	re := regexp.MustCompile(`url\("(.*?)"\)`)
 
 	var imageURLs []string
@@ -322,7 +314,6 @@ func main() {
 					fmt.Printf("Цена товара: %s\n", price)
 					fmt.Fprintf(writer, "Описание товара:  %s\n", description)
 					fmt.Fprintf(writer, "Цена товара:  %s\n", price)
-					fmt.Fprintf(writer, " %s\n", "")
 
 				}
 			}
@@ -330,6 +321,9 @@ func main() {
 			child.Find("img").Each(func(k int, img *goquery.Selection) {
 				src, exists := img.Attr("src")
 				if exists {
+					fmt.Fprintf(writer, "URL изображения:  %s\n", src)
+					fmt.Fprintf(writer, " %s\n", "")
+
 					fmt.Println("URL изображения:", src)
 				}
 			})
