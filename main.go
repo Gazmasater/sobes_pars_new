@@ -1,8 +1,10 @@
 package main
 
 import (
+	"bufio"
 	"fmt"
 	"log"
+	"os"
 	"regexp"
 	"strings"
 	"time"
@@ -25,6 +27,16 @@ func main() {
 	}
 
 	Log_init()
+
+	file, err := os.Create("output.txt")
+	if err != nil {
+		fmt.Println("Ошибка при создании файла:", err)
+		return
+	}
+	defer file.Close()
+
+	writer := bufio.NewWriter(file)
+	defer writer.Flush()
 
 	configg := data.WebDriverConfig{
 		SeleniumPath:  data.SeleniumPath,
@@ -285,6 +297,12 @@ func main() {
 		if parent.Is("a") {
 			href, exists := parent.Attr("href")
 			if exists {
+				fmt.Fprintf(writer, "Город доставки:  %s\n", cfg.City)
+				fmt.Fprintf(writer, "Адрес доставки:  %s\n", cfg.Street+","+cfg.HouseNumber)
+				fmt.Fprintf(writer, "Имя категории: %s\n", data.CategoryMap[data.CategoryLinks[cfg.BaseURL]])
+				fmt.Fprintf(writer, "Имя дополнительной категории: %s\n", data.CategoryLinks[cfg.BaseURL])
+				fmt.Fprintf(writer, "Ссылка товара:  %s\n", cfg.TwoURL+href)
+
 				fmt.Println("Город доставки:", cfg.City)
 				fmt.Println("Адрес доставки:", cfg.Street+","+cfg.HouseNumber)
 				fmt.Println("Имя категории:", data.CategoryMap[data.CategoryLinks[cfg.BaseURL]])
@@ -302,6 +320,10 @@ func main() {
 				if len(description) > 3 {
 					fmt.Printf("Описание товара: %s\n", description)
 					fmt.Printf("Цена товара: %s\n", price)
+					fmt.Fprintf(writer, "Описание товара:  %s\n", description)
+					fmt.Fprintf(writer, "Цена товара:  %s\n", price)
+					fmt.Fprintf(writer, " %s\n", "")
+
 				}
 			}
 
@@ -316,6 +338,8 @@ func main() {
 	})
 
 	println()
+
+	writer.Flush()
 
 	time.Sleep(2000 * time.Second)
 }
