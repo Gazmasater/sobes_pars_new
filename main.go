@@ -79,8 +79,6 @@ func main() {
 		}
 	}
 
-	time.Sleep(20 * time.Second)
-
 	time.Sleep(10 * time.Second)
 
 	elements, err = wd.FindElements(selenium.ByCSSSelector, ".AddressConfirmBadge_buttons__Ou9hW > ._button--theme_secondary_10nio_51 ._text_7xv2z_4")
@@ -266,10 +264,11 @@ func main() {
 	slideElements.Each(func(i int, s *goquery.Selection) {
 		text := s.Text()
 		re := regexp.MustCompile(`\d+`)
-
 		matches := re.FindAllString(text, -1)
+
+		var numericPrice string
 		if len(matches) > 0 {
-			numericPrice := matches[len(matches)-1]
+			numericPrice = matches[len(matches)-1]
 			switch len(numericPrice) {
 			case 4:
 				price = numericPrice[:2]
@@ -282,38 +281,52 @@ func main() {
 			}
 		} else {
 			fmt.Println("Цена не найдена")
+			fmt.Fprintln(writer, "Цена не найдена")
+			return
 		}
 
 		parent := s.Parent()
-
-		if parent.Is("a") {
-			href, exists := parent.Attr("href")
-			if exists {
-				fmt.Fprintf(writer, "Город доставки:  %s\n", cfg.City)
-				fmt.Fprintf(writer, "Адрес доставки:  %s\n", cfg.Street+","+cfg.HouseNumber)
-				fmt.Fprintf(writer, "Имя категории: %s\n", data.CategoryMap[data.CategoryLinks[cfg.BaseURL]])
-				fmt.Fprintf(writer, "Имя дополнительной категории: %s\n", data.CategoryLinks[cfg.BaseURL])
-				fmt.Fprintf(writer, "Ссылка товара:  %s\n", cfg.TwoURL+href)
-
-				fmt.Println("Город доставки:", cfg.City)
-				fmt.Println("Адрес доставки:", cfg.Street+","+cfg.HouseNumber)
-				fmt.Println("Имя категории:", data.CategoryMap[data.CategoryLinks[cfg.BaseURL]])
-				fmt.Println("Имя дополнительной категории:", data.CategoryLinks[cfg.BaseURL])
-				fmt.Println("Ссылка товара:", cfg.TwoURL+href)
-			}
+		if !parent.Is("a") {
+			fmt.Printf("Родительский элемент не является ссылкой для товара %d\n", i)
+			fmt.Fprintf(writer, "Родительский элемент не является ссылкой для товара %d\n", i)
+			return
 		}
+
+		href, exists := parent.Attr("href")
+		if !exists {
+			fmt.Printf("Атрибут href не найден для товара %d\n", i)
+			fmt.Fprintf(writer, "Атрибут href не найден для товара %d\n", i)
+			return
+		}
+
+		fmt.Fprintf(writer, "Город доставки: %s\n", cfg.City)
+		fmt.Printf("Город доставки: %s\n", cfg.City)
+
+		fmt.Fprintf(writer, "Адрес доставки: %s\n", cfg.Street+","+cfg.HouseNumber)
+		fmt.Printf("Адрес доставки: %s\n", cfg.Street+","+cfg.HouseNumber)
+
+		fmt.Fprintf(writer, "Имя категории: %s\n", data.CategoryMap[data.CategoryLinks[cfg.BaseURL]])
+		fmt.Printf("Имя категории: %s\n", data.CategoryMap[data.CategoryLinks[cfg.BaseURL]])
+
+		fmt.Fprintf(writer, "Имя дополнительной категории: %s\n", data.CategoryLinks[cfg.BaseURL])
+		fmt.Printf("Имя дополнительной категории: %s\n", data.CategoryLinks[cfg.BaseURL])
+
+		fmt.Fprintf(writer, "Ссылка товара: %s\n", cfg.TwoURL+href)
+		fmt.Printf("Ссылка товара: %s\n", href)
 
 		s.Children().Each(func(j int, child *goquery.Selection) {
 			childtext := child.Text()
 			firstNumberIndex := util.FindFirstNumberIndex(childtext)
-
 			if firstNumberIndex >= 0 {
 				description := child.Text()[:firstNumberIndex]
 				if len(description) > 3 {
 					fmt.Printf("Описание товара: %s\n", description)
+					fmt.Fprintf(writer, "Описание товара: %s\n", description)
+
 					fmt.Printf("Цена товара: %s\n", price)
-					fmt.Fprintf(writer, "Описание товара:  %s\n", description)
-					fmt.Fprintf(writer, "Цена товара:  %s\n", price)
+					fmt.Println()
+					fmt.Fprintf(writer, "Цена товара: %s\n", price)
+					fmt.Fprintf(writer, " %s\n", "")
 
 				}
 			}
@@ -321,18 +334,13 @@ func main() {
 			child.Find("img").Each(func(k int, img *goquery.Selection) {
 				src, exists := img.Attr("src")
 				if exists {
-					fmt.Fprintf(writer, "URL изображения:  %s\n", src)
-					fmt.Fprintf(writer, " %s\n", "")
-
+					fmt.Fprintf(writer, "URL изображения: %s\n", src)
 					fmt.Println("URL изображения:", src)
+
 				}
 			})
 		})
-		fmt.Println()
 	})
-
-	println()
-
 	writer.Flush()
 
 	time.Sleep(2000 * time.Second)
