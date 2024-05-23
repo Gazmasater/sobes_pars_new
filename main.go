@@ -79,7 +79,7 @@ func main() {
 		}
 	}
 
-	time.Sleep(10 * time.Second)
+	time.Sleep(50 * time.Second)
 
 	elements, err = wd.FindElements(selenium.ByCSSSelector, ".AddressConfirmBadge_buttons__Ou9hW > ._button--theme_secondary_10nio_51 ._text_7xv2z_4")
 	if err != nil {
