@@ -41,8 +41,6 @@ func main() {
 	}
 	defer wd.Quit()
 
-	wd.SetImplicitWaitTimeout(10 * time.Second)
-
 	if err := header.SetRequestHeaders(wd); err != nil {
 		log.Fatalf("Failed to set request headers: %v", err)
 	}
