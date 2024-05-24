@@ -300,6 +300,7 @@ func main() {
 
 		fmt.Fprintf(writer, "Адрес доставки: %s\n", cfg.Street+","+cfg.HouseNumber)
 		fmt.Printf("Адрес доставки: %s\n", cfg.Street+","+cfg.HouseNumber)
+
 		a := data.CategoryMap[data.CategoryLinks[cfg.BaseURL]]
 		fmt.Fprintf(writer, "Имя категории: %s\n", a)
 		fmt.Printf("Имя категории: %s\n", data.CategoryMap[data.CategoryLinks[cfg.BaseURL]])
