@@ -1,485 +1,559 @@
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
-Имя категории: Готовая еда
-Имя дополнительной категории: Перекус
-Ссылка товара: https://samokat.ru/product/f619cad0-f487-11ed-b971-08c0eb32008b
-URL изображения: https://cm.samokat.ru/processed/m/product_card/8efcef72-2390-4422-92c6-58764bc83a0a.jpg
-Описание товара: Морковь Белая дача, хрустящие палочки
-Цена товара: 69
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,3
-Имя категории: Готовая еда
-Имя дополнительной категории: Перекус
-Ссылка товара: https://samokat.ru/product/coca-cola-1-l
-URL изображения: https://cm.samokat.ru/processed/m/public/feca3dfae37730e9_5449000054227.jpg
-Описание товара: Coca-Cola
-Цена товара: 275
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/holodnyj-zelyonyj-chaj-lipton-1-l
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/1f021f31-54fa-4c2b-9a62-bc377e506156.jpg
 Описание товара: Холодный зелёный чай Lipton
 Цена товара: 166
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/iz-gruzii-limonad-zandukeli-krem-soda-s-gazom-05-l
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/7414aa84-3abe-4312-a1b7-f330714f807b.jpg
 Описание товара: Из Грузии: Лимонад Zandukeli, крем-сода, с газом
 Цена товара: 161
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/5f5d1541-7afc-11ea-aef8-0050560306e1
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/original/156404_1415731187.jpg
 Описание товара: Burn
 Цена товара: 169
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/apelsinovyj-sok-j7-097-l
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/8d811f5c-1585-4431-85df-acf8b87ec708.jpg
 Описание товара: Апельсиновый сок J
 Цена товара: 259
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/mineralnaya-voda-borjomi-s-gazom-v-stekle-05-l
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/original/43154_645961594.jpg
 Описание товара: Минеральная вода Borjomi, с газом, в стекле
 Цена товара: 139
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/33d103a6-8d81-11eb-85a8-1c34dae33151
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/a1f0b5ff-5307-4693-a1e9-b0e98156bf1c.jpeg
 Описание товара: Adrenaline Rush Vitamin Power, без сахара, личи
 Цена товара: 159
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
-Имя категории: Готовая еда
-Имя дополнительной категории: Перекус
-Ссылка товара: https://samokat.ru/product/energetik-lit-energy-mango-i-kokos-045-l
-URL изображения: https://cm.samokat.ru/processed/m/public/3b9dfdfbeda4d442_721b2403-41c5-11ee-885f-08c0eb32014b.jpg
-Описание товара: Энергетик Lit Energy, манго и кокос
-Цена товара: 123
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/napitok-samokat-yablochnyj-shorli-s-gazom-05-l
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/91e414713166e3ae_4673729298018.jpg
 Описание товара: Напиток Самокат, яблочный шорли, с газом
 Цена товара: 167
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/lechebno-stolovaya-voda-psyzh-s-gazom-1-l
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/dbbeb53b-1cc4-44bd-b871-7584e117cf44.jpg
 Описание товара: Лечебно-столовая вода Псыж, с газом
 Цена товара: 76
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/c0914431-7030-11eb-85a3-1c34dae33151
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/original/76903_860470481.jpg
 Описание товара: Тоник Star Bar Биттер, грейпфрут, с газом
 Цена товара: 88
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/pirog-samokat-s-kartofelem-i-gribami-250-g
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/0e542cb02b19b8e4_2200698000001-1.jpg
 Описание товара: Пирог Самокат, с картофелем и грибами
 Цена товара: 169
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/pirog-samokat-s-myasom-indejki-i-kapustoj-250-g
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/a5d5333b12cdff99_2200700000005-1.jpg
 Описание товара: Пирог Самокат с мясом индейки и капустой
 Цена товара: 159
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
+Имя категории: Готовая еда
+Имя дополнительной категории: Перекус
+Ссылка товара: https://samokat.ru/product/096c49a2-1e49-11ed-885a-08c0eb32014b
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/1ab7217b0f187c74_4631158748627-1.jpg
+Описание товара: Осетинский пирог Рамонти Пайз, с сыром
+Цена товара: 169
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/60c559fc-6761-11ee-8860-08c0eb32014b
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/07d83f4e-5331-4ac3-b120-6e9c56a40035.jpg
 Описание товара: Мини-багет Родные просторы, с ветчиной и сыром
 Цена товара: 69
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/kutaby-cook-chart-s-syrom-i-pomidorami-150-g
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/40fa710ffbb5ccd7_4670117694131.jpg
 Описание товара: Кутабы Cook Chart с сыром и помидорами
 Цена товара: 179
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
-Имя категории: Готовая еда
-Имя дополнительной категории: Перекус
-Ссылка товара: https://samokat.ru/product/20a4d532-823a-11ee-b973-08c0eb32008b
-URL изображения: https://cm.samokat.ru/processed/m/product_card/6dd03522-36fa-40be-88c7-5115566972c5.jpeg
-Описание товара: Пирожки Самокат, с капустой
-Цена товара: 75
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/a32cd042-221b-11ee-ae78-08c0eb320147
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/5a77596dcae0f38d_4670012172079_1.jpg
 Описание товара: Хачапури LaMelle с сыром
 Цена товара: 79
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/67184568-6761-11ee-8860-08c0eb32014b
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/cb5800bf-9436-4dd5-8ded-81445c7d9939.jpg
 Описание товара: Сосиска в тесте Родные просторы
 Цена товара: 96
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/edf0fa48-28c0-11eb-8599-1c34dae33151
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/df0e5ec0b03852ea_4630061956587-1.jpg
 Описание товара: Мини-киш Cook Chart, с курицей
 Цена товара: 154
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/8246b9ae-64dd-11ed-b96e-08c0eb32008b
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/36bfd95feb5e8394_4670012171973-1.jpg
 Описание товара: Шаньга LaMelle, с запечённым сыром и зеленью
 Цена товара: 49
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
+Имя категории: Готовая еда
+Имя дополнительной категории: Перекус
+Ссылка товара: https://samokat.ru/product/6b5eb9ab-1a43-11ed-b106-08c0eb31fffb
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/0d553a7db85e7ace_4670117691543-1.jpg
+Описание товара: Бургер Creative Kitchen, с котлетой из говядины
+Цена товара: 289
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/sendvich-samokat-s-indejkoj-i-gribami-135-g
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/abb9622f1c6c15b7_4670117693950-1.jpg
 Описание товара: Сэндвич Самокат, с индейкой и грибами
 Цена товара: 191
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
+Имя категории: Готовая еда
+Имя дополнительной категории: Перекус
+Ссылка товара: https://samokat.ru/product/sendvich-samokat-s-vetchinoj-i-syrom-155-g
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/af36a9b990c1a758_4670117693981-1.jpg
+Описание товара: Сэндвич Самокат, с ветчиной и сыром
+Цена товара: 199
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Готовая еда
+Имя дополнительной категории: Перекус
+Ссылка товара: https://samokat.ru/product/447c6eec-a38e-11ec-8856-08c0eb32014b
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
+URL изображения: https://cm.samokat.ru/processed/m/original/160846_855127628.jpg
+Описание товара: Сэндвич-ролл Creative Kitchen, с ветчиной и сыром
+Цена товара: 236
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/bd64c6bb-fcbd-4c6c-acca-93d973a665bc
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/de291eef-b569-4c86-bebb-21f65db9c117.jpg
 Описание товара: Ролл I Like Eat, с ветчиной и сыром
 Цена товара: 189
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
+Имя категории: Готовая еда
+Имя дополнительной категории: Перекус
+Ссылка товара: https://samokat.ru/product/057821be-fd62-4d07-bc12-3cbc6787c3ed
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/eff8ca2d-0459-4ab6-aa81-a3fb86aa5fb7.jpg
+Описание товара: Шаурма I Like Eat, с курицей
+Цена товара: 179
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/760456c5-92fb-11eb-85a8-1c34dae33151
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/c2389321-6be3-4d3d-9bc8-46ffdbaff162.jpg
 Описание товара: Сэндвич Creative Kitchen, с курицей
 Цена товара: 294
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
+Имя категории: Готовая еда
+Имя дополнительной категории: Перекус
+Ссылка товара: https://samokat.ru/product/chiabatta-kulinarium-s-kuricej-i-sousom-gurme-160-g
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/0ce06a26-257a-416c-aec1-bcf3bc08c42c.jpg
+Описание товара: Чиабатта Кулинариум, с курицей и соусом гурмэ
+Цена товара: 179
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/dea8abd2-74df-11ee-b972-08c0eb32008b
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/96e8c9f2-a20c-4d2a-b03b-2bd6de5727d3.jpg
 Описание товара: Сэндвич York to Go, с бужениной, на зерновом хлебе
 Цена товара: 179
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/f0ac6a7a-74df-11ee-b972-08c0eb32008b
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/84b32e4f-2108-4591-a29b-d1a40ad9b101.jpg
 Описание товара: Сэндвич York to Go, с ветчиной и сыром
 Цена товара: 189
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/cc289817-74df-11ee-b972-08c0eb32008b
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/d8ad587b-e6bc-4e7a-bfa0-6417f6afc57e.jpg
 Описание товара: Сэндвич York to Go, с тунцом, на зерновом хлебе
 Цена товара: 189
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/d2498c30-74df-11ee-b972-08c0eb32008b
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/23e7caeb-7667-416d-a5a2-7a5618b25aac.jpg
 Описание товара: Сэндвич York to Go, с цыплёнком, беконом и яйцом
 Цена товара: 179
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
+Имя категории: Готовая еда
+Имя дополнительной категории: Перекус
+Ссылка товара: https://samokat.ru/product/c5daeed5-ddfe-11ed-ae78-08c0eb320147
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/1742525b8abeacb6_4640131110146.jpg
+Описание товара: Сэндвич Кулинариум, с карбонадом и горчичным соусом
+Цена товара: 199
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/351b44d6-a43c-11eb-85a9-1c34dae33151
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/b8722525-e10a-4a2f-9118-8782afcd3471.jpg
 Описание товара: Сэндвич-ролл York Fresh, с цыплёнком, сыром и грибами
 Цена товара: 219
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/0aa01bc0-34ec-11ed-b96c-08c0eb32008b
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/b8e4c8fe-42eb-4fb4-b5e2-690d709f7813.jpg
 Описание товара: Чиабатта Мираторг, с куриным филе
 Цена товара: 185
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
+Имя категории: Готовая еда
+Имя дополнительной категории: Перекус
+Ссылка товара: https://samokat.ru/product/20c3d8de-74e0-11ee-b972-08c0eb32008b
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/b03457ef-0328-4a4a-b2ba-963526833832.jpg
+Описание товара: Ролл York Fresh, с бужениной и вялеными томатами
+Цена товара: 219
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/a7143011-97cf-11ed-b109-08c0eb31fffb
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/d22af172-3ef4-4e4b-b7c0-69f4e7b3aa0a.jpg
 Описание товара: Круассан Мираторг, с сыром и ветчиной
 Цена товара: 129
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/0892dea2-74e0-11ee-b972-08c0eb32008b
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/59a89196-830f-4053-8494-2b5c0d0b5820.jpg
 Описание товара: Сэндвич York to Go, с ростбифом, на зерновом хлебе
 Цена товара: 195
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
+Имя категории: Готовая еда
+Имя дополнительной категории: Перекус
+Ссылка товара: https://samokat.ru/product/1dfcb3e8-af3a-4035-8000-892b33df1793
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/4bd837e9-9155-40dc-87ff-b524096ae2ba.jpeg
+Описание товара: Шаурма Cook Chart, с курицей
+Цена товара: 219
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/023113a0-97d0-11ed-b109-08c0eb31fffb
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/225dbcc9-49e9-4bf6-8395-58e5ea2aa8f2.jpg
 Описание товара: Чиабатта Мираторг, с ветчиной и горчичным соусом
 Цена товара: 179
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/32aef434-74e0-11ee-b972-08c0eb32008b
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/6d49349a-be71-467c-afa2-baa942e49686.jpg
 Описание товара: Багет York Fresh, с куриным филе и сыром
 Цена товара: 189
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
-Имя категории: Готовая еда
-Имя дополнительной категории: Перекус
-Ссылка товара: https://samokat.ru/product/22d222a5-82fe-11ee-b10b-08c0eb31fffb
-URL изображения: https://cm.samokat.ru/processed/m/product_card/33ff8077-a890-4c96-9ca5-d455d2a53c7a.jpeg
-Описание товара: Куриное филе Самокат, в хрустящей корочке, с кисло-сладким соусом
-Цена товара: 239
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/9a35097e-6290-4013-8a18-333cbc61bcbd
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/73257d00-c8c9-43f2-a36e-082c5239ac0b.jpg
 Описание товара: Набор роллов Сабуро Сакура Light
 Цена товара: 209
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/09df73f5-e386-446b-9e14-006bf78e5650
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/e20e48ae-373b-4665-85c1-7adf22626261.jpg
 Описание товара: Набор роллов Ямагути Сакура Light
 Цена товара: 209
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/onigiri-samokat-s-ugryom-i-sousom-unagi-120-g
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/7039a05b-0996-497e-a407-8408dd161d48.jpg
 Описание товара: Онигири Самокат, с угрём и соусом унаги
 Цена товара: 159
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
-Ссылка товара: https://samokat.ru/product/08218496-0c5c-11ee-ae78-08c0eb320147
-URL изображения: https://cm.samokat.ru/processed/m/public/d4ad1095616b7957_4601445212049-1.jpg
-Описание товара: Онигири I Like Eat, с красной рыбой спайси
-Цена товара: 167
+Ссылка товара: https://samokat.ru/product/0e1a256f-0c5c-11ee-ae78-08c0eb320147
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/05ae168c45c1a990_4601445212063-1.jpg
+Описание товара: Онигири I Like Eat, с тунцом и кунжутом
+Цена товара: 149
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/f91b50e6-1046-4e0e-bd29-15d7c4706a84
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/1206ce28-da2c-4bc2-8b7b-6993dd5d89fb.jpg
 Описание товара: Онигири I Like Eat, с креветкой
 Цена товара: 189
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
-Ссылка товара: https://samokat.ru/product/f619cad0-f487-11ed-b971-08c0eb32008b
-URL изображения: https://cm.samokat.ru/processed/m/product_card/8efcef72-2390-4422-92c6-58764bc83a0a.jpg
-Описание товара: Морковь Белая дача, хрустящие палочки
-Цена товара: 69
+Ссылка товара: https://samokat.ru/product/c08b4716-9583-11ed-b109-08c0eb31fffb
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/055d43bbc7940130_c08b4716-9583-11ed-b109-08c0eb31fffb.jpg
+Описание товара: Онигири Creative Kitchen, с курицей
+Цена товара: 169
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
+Имя категории: Готовая еда
+Имя дополнительной категории: Перекус
+Ссылка товара: https://samokat.ru/product/ea9d4243-eb2f-11ed-885e-08c0eb32014b
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/e1a2c5fbf368ef2d_4670117693806-1.jpg
+Описание товара: Онигирадзу Creative Kitchen, с курицей и томатами, с соусом
+Цена товара: 159
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/301713dc-42f6-11ec-a0ee-ec0d9a21b021
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/original/136560_531641806.jpg
 Описание товара: Стебель сельдерея, в коррексе
-Цена товара: 69
+Цена товара: 79
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
-Имя категории: Готовая еда
-Имя дополнительной категории: Перекус
-Ссылка товара: https://samokat.ru/product/coca-cola-1-l
-URL изображения: https://cm.samokat.ru/processed/m/public/feca3dfae37730e9_5449000054227.jpg
-Описание товара: Coca-Cola
-Цена товара: 275
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/holodnyj-zelyonyj-chaj-lipton-1-l
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/1f021f31-54fa-4c2b-9a62-bc377e506156.jpg
 Описание товара: Холодный зелёный чай Lipton
 Цена товара: 166
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/iz-gruzii-limonad-zandukeli-krem-soda-s-gazom-05-l
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/7414aa84-3abe-4312-a1b7-f330714f807b.jpg
 Описание товара: Из Грузии: Лимонад Zandukeli, крем-сода, с газом
 Цена товара: 161
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/5f5d1541-7afc-11ea-aef8-0050560306e1
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/original/156404_1415731187.jpg
 Описание товара: Burn
 Цена товара: 169
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/apelsinovyj-sok-j7-097-l
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/8d811f5c-1585-4431-85df-acf8b87ec708.jpg
 Описание товара: Апельсиновый сок J
 Цена товара: 259
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/mineralnaya-voda-borjomi-s-gazom-v-stekle-05-l
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/original/43154_645961594.jpg
 Описание товара: Минеральная вода Borjomi, с газом, в стекле
 Цена товара: 139
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/33d103a6-8d81-11eb-85a8-1c34dae33151
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/a1f0b5ff-5307-4693-a1e9-b0e98156bf1c.jpeg
 Описание товара: Adrenaline Rush Vitamin Power, без сахара, личи
 Цена товара: 159
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
-Имя категории: Готовая еда
-Имя дополнительной категории: Перекус
-Ссылка товара: https://samokat.ru/product/energetik-lit-energy-mango-i-kokos-045-l
-URL изображения: https://cm.samokat.ru/processed/m/public/3b9dfdfbeda4d442_721b2403-41c5-11ee-885f-08c0eb32014b.jpg
-Описание товара: Энергетик Lit Energy, манго и кокос
-Цена товара: 123
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/napitok-samokat-yablochnyj-shorli-s-gazom-05-l
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/91e414713166e3ae_4673729298018.jpg
 Описание товара: Напиток Самокат, яблочный шорли, с газом
 Цена товара: 167
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/lechebno-stolovaya-voda-psyzh-s-gazom-1-l
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/dbbeb53b-1cc4-44bd-b871-7584e117cf44.jpg
 Описание товара: Лечебно-столовая вода Псыж, с газом
 Цена товара: 76
  
 Город доставки: Липецк
-Адрес доставки: Вермишева,3
-Имя категории: Готовая еда
-Имя дополнительной категории: Перекус
-Ссылка товара: https://samokat.ru/product/dr-pepper-zero-033-l
-URL изображения: https://cm.samokat.ru/processed/m/product_card/8ee99e9f-b527-49ad-b277-37ef82bc6879.jpg
-Описание товара: Dr. Pepper Zero
-Цена товара: 155
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,3
+Адрес доставки: Вермишева,4
 Имя категории: Готовая еда
 Имя дополнительной категории: Перекус
 Ссылка товара: https://samokat.ru/product/c0914431-7030-11eb-85a3-1c34dae33151
+Url изображения категории: https://cm.samokat.ru/processed/category/8d121a12-45a6-4ec3-b195-c62c818e162d.jpg
 URL изображения: https://cm.samokat.ru/processed/m/original/76903_860470481.jpg
 Описание товара: Тоник Star Bar Биттер, грейпфрут, с газом
 Цена товара: 88

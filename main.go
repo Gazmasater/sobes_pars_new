@@ -93,7 +93,7 @@ func main() {
 		return
 	}
 
-	time.Sleep(3 * time.Second)
+	time.Sleep(2 * time.Second)
 	var input selenium.WebElement
 
 	input, err = wd.FindElement(selenium.ByCSSSelector, "input._textInput_1frhv_1")
@@ -300,8 +300,8 @@ func main() {
 
 		fmt.Fprintf(writer, "Адрес доставки: %s\n", cfg.Street+","+cfg.HouseNumber)
 		fmt.Printf("Адрес доставки: %s\n", cfg.Street+","+cfg.HouseNumber)
-
-		fmt.Fprintf(writer, "Имя категории: %s\n", data.CategoryMap[data.CategoryLinks[cfg.BaseURL]])
+		a := data.CategoryMap[data.CategoryLinks[cfg.BaseURL]]
+		fmt.Fprintf(writer, "Имя категории: %s\n", a)
 		fmt.Printf("Имя категории: %s\n", data.CategoryMap[data.CategoryLinks[cfg.BaseURL]])
 
 		fmt.Fprintf(writer, "Имя дополнительной категории: %s\n", data.CategoryLinks[cfg.BaseURL])
@@ -309,6 +309,9 @@ func main() {
 
 		fmt.Fprintf(writer, "Ссылка товара: %s\n", cfg.TwoURL+href)
 		fmt.Printf("Ссылка товара: %s\n", href)
+
+		fmt.Printf("Url изображения категории: %s\n", data.TextToImageURL[a])
+		fmt.Fprintf(writer, "Url изображения категории: %s\n", data.TextToImageURL[a])
 
 		s.Children().Each(func(j int, child *goquery.Selection) {
 			childtext := child.Text()
