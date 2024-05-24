@@ -64,9 +64,6 @@ func main() {
 
 		if strings.Contains(link, "category") {
 			categoryName, err := elem.Text()
-			if categoryName == "Скоро Пасха" {
-				categoryName = "Скоро пасха"
-			}
 
 			if err != nil {
 				fmt.Printf("Ошибка при получении текста элемента: %v\n", err)
