@@ -50,6 +50,7 @@ func main() {
 		return
 	}
 
+	//Поиск всех ссылок
 	elements, err := wd.FindElements(selenium.ByCSSSelector, "a")
 	if err != nil {
 		Logger.Error("Не найден элемент", zap.Error(err))
