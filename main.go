@@ -253,6 +253,7 @@ func main() {
 
 	slideElements := Doc.Find(".ProductCard_root__OBGd_")
 	var price string
+	var price_new string
 
 	slideElements.Each(func(i int, s *goquery.Selection) {
 		text := s.Text()
@@ -263,12 +264,25 @@ func main() {
 		if len(matches) > 0 {
 			numericPrice = matches[len(matches)-1]
 			switch len(numericPrice) {
+			case 2:
+				price = numericPrice[:2]
+				price_new = price
+
+			case 3:
+				price = numericPrice[:3]
+				price_new = price
+
 			case 4:
 				price = numericPrice[:2]
+				price_new = numericPrice[2:4]
 			case 5:
 				price = numericPrice[:3]
+				price_new = numericPrice[3:5]
+
 			case 6:
 				price = numericPrice[:3]
+				price_new = numericPrice[3:6]
+
 			default:
 				price = numericPrice
 			}
@@ -292,24 +306,7 @@ func main() {
 			return
 		}
 
-		fmt.Fprintf(writer, "Город доставки: %s\n", cfg.City)
-		fmt.Printf("Город доставки: %s\n", cfg.City)
-
-		fmt.Fprintf(writer, "Адрес доставки: %s\n", cfg.Street+","+cfg.HouseNumber)
-		fmt.Printf("Адрес доставки: %s\n", cfg.Street+","+cfg.HouseNumber)
-
-		a := data.CategoryMap[data.CategoryLinks[cfg.BaseURL]]
-		fmt.Fprintf(writer, "Имя категории: %s\n", a)
-		fmt.Printf("Имя категории: %s\n", data.CategoryMap[data.CategoryLinks[cfg.BaseURL]])
-
-		fmt.Fprintf(writer, "Имя дополнительной категории: %s\n", data.CategoryLinks[cfg.BaseURL])
-		fmt.Printf("Имя дополнительной категории: %s\n", data.CategoryLinks[cfg.BaseURL])
-
-		fmt.Fprintf(writer, "Ссылка товара: %s\n", cfg.TwoURL+href)
-		fmt.Printf("Ссылка товара: %s\n", href)
-
-		fmt.Printf("Url изображения категории: %s\n", data.TextToImageURL[a])
-		fmt.Fprintf(writer, "Url изображения категории: %s\n", data.TextToImageURL[a])
+		util.PrintProductDetails(writer, cfg, href)
 
 		s.Children().Each(func(j int, child *goquery.Selection) {
 			childtext := child.Text()
@@ -317,14 +314,7 @@ func main() {
 			if firstNumberIndex >= 0 {
 				description := child.Text()[:firstNumberIndex]
 				if len(description) > 3 {
-					fmt.Printf("Описание товара: %s\n", description)
-					fmt.Fprintf(writer, "Описание товара: %s\n", description)
-
-					fmt.Printf("Цена товара: %s\n", price)
-					fmt.Println()
-					fmt.Fprintf(writer, "Цена товара: %s\n", price)
-					fmt.Fprintf(writer, " %s\n", "")
-
+					util.PrintProductInfo(description, price, price_new, writer)
 				}
 			}
 

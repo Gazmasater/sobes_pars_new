@@ -6,7 +6,8 @@
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/f6b7a748-c163-4417-ab28-6639242cf98f.jpg
 Описание товара: Пюре Агуша яблоко и банан, со вкусом печенья, с 
-Цена товара: 75
+Цена товара старая: 75
+Цена товара новая: 59
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -16,7 +17,8 @@ URL изображения: https://cm.samokat.ru/processed/m/product_card/f6b7a
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/original/74444_1100987285.jpg
 Описание товара: Пюре Агуша яблоко, ежевика и малина, с 
-Цена товара: 75
+Цена товара старая: 75
+Цена товара новая: 59
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -26,7 +28,8 @@ URL изображения: https://cm.samokat.ru/processed/m/original/74444_110
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/original/178089_1971845238.jpg
 Описание товара: Фруктовое пюре Агуша, яблоко, малина и шиповник, с 
-Цена товара: 75
+Цена товара старая: 75
+Цена товара новая: 59
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -36,7 +39,8 @@ URL изображения: https://cm.samokat.ru/processed/m/original/178089_19
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/720f4860e4fa6ba1_4690228030925.jpg
 Описание товара: Напиток Агуша, с соком, яблоко
-Цена товара: 73
+Цена товара старая: 73
+Цена товара новая: 62
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -45,18 +49,9 @@ URL изображения: https://cm.samokat.ru/processed/m/public/720f4860e4f
 Ссылка товара: https://samokat.ru/product/tvorog-samokat-s-6-mesyacev-5percent-100-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/fb3257b8-c650-4dcd-af98-7da4d80fbf42.jpg
-Описание товара: Творог Самокат с 
-Цена товара: 48
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/moloko-samokat-ultrapasterizovannoe-s-8-mesyacev-32percent-200-ml
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/cbc8a0e3-f77c-4900-95e5-b7ef6e95c5b2.jpg
-Описание товара: Молоко Самокат ультрапастеризованное, с 
-Цена товара: 47
+Описание товара: Творог Самокат, 
+Цена товара старая: 48
+Цена товара новая: 41
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -65,8 +60,9 @@ URL изображения: https://cm.samokat.ru/processed/m/product_card/cbc8a
 Ссылка товара: https://samokat.ru/product/koktejl-molochnyj-samokat-banan-s-12-mesyacev-25percent-205-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/0e00d436-d454-49a4-b3a5-7e84a1be3033.jpg
-Описание товара: Коктейль молочный Самокат банан, с 
-Цена товара: 53
+Описание товара: Молочный коктейль Самокат, 
+Цена товара старая: 53
+Цена товара новая: 45
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -75,8 +71,9 @@ URL изображения: https://cm.samokat.ru/processed/m/product_card/0e00d
 Ссылка товара: https://samokat.ru/product/koktejl-molochnyj-samokat-klubnika-s-12-mesyacev-25percent-205-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/04f129bd-b680-4edb-a20e-1db04de7c67e.jpg
-Описание товара: Коктейль молочный Самокат клубника, с 
-Цена товара: 53
+Описание товара: Молочный коктейль Самокат, 
+Цена товара старая: 53
+Цена товара новая: 45
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -85,8 +82,9 @@ URL изображения: https://cm.samokat.ru/processed/m/product_card/04f12
 Ссылка товара: https://samokat.ru/product/koktejl-molochnyj-samokat-detskij-vanil-s-12-mesyacev-25percent-200-ml
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/c366f7c6-09d0-4d65-a051-86426babc245.jpg
-Описание товара: Коктейль молочный Самокат детский, ваниль, с 
-Цена товара: 49
+Описание товара: Молочный коктейль Самокат, 
+Цена товара старая: 49
+Цена товара новая: 42
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -96,7 +94,8 @@ URL изображения: https://cm.samokat.ru/processed/m/product_card/c366f
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/236000f7-48cd-4854-a7b8-9765bcc6081b.jpg
 Описание товара: Молочный коктейль Самокат, 
-Цена товара: 53
+Цена товара старая: 53
+Цена товара новая: 45
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -105,8 +104,9 @@ URL изображения: https://cm.samokat.ru/processed/m/product_card/23600
 Ссылка товара: https://samokat.ru/product/pyure-samokat-grusha-s-4-mesyacev-100-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/c889b2bb4f1d9be8_4610015301281.jpg
-Описание товара: Пюре Самокат груша, с 
-Цена товара: 70
+Описание товара: Пюре Самокат, груша, с 
+Цена товара старая: 70
+Цена товара новая: 63
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -115,228 +115,20 @@ URL изображения: https://cm.samokat.ru/processed/m/public/c889b2bb4f1
 Ссылка товара: https://samokat.ru/product/pyure-samokat-yabloko-s-4-mesyacev-100-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/1b13ed81-950a-4c19-be48-99d89ea38803.jpg
-Описание товара: Пюре Самокат яблоко, с 
-Цена товара: 65
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-samokat-yabloko-i-grusha-s-4-mesyacev-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/0547931d77a4b1c0_4610015301366.jpg
-Описание товара: Пюре Самокат яблоко и груша, с 
-Цена товара: 69
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-samokat-kabachok-s-4-mesyacev-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/44079a4fa8da803a_4812021002910.jpg
-Описание товара: Пюре Самокат кабачок, с 
-Цена товара: 61
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/b8b91b69-c4d3-11ee-b10b-08c0eb31fffb
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/7daa5120-9241-4e82-8820-f9dfe4712c77.jpg
-Описание товара: Какао-напиток Самокат, детский
-Цена товара: 189
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-agusha-yabloko-i-banan-so-vkusom-pechenya-s-6-mesyacev-90-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/f6b7a748-c163-4417-ab28-6639242cf98f.jpg
-Описание товара: Пюре Агуша яблоко и банан, со вкусом печенья, с 
-Цена товара: 75
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-agusha-yabloko-ezhevika-i-malina-s-5-mesyacev-90-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/original/74444_1100987285.jpg
-Описание товара: Пюре Агуша яблоко, ежевика и малина, с 
-Цена товара: 75
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-agusha-fruktovoe-yabloko-malina-i-shipovnik-s-5-mesyacev-90-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/original/178089_1971845238.jpg
-Описание товара: Фруктовое пюре Агуша, яблоко, малина и шиповник, с 
-Цена товара: 75
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/napitok-agusha-s-sokom-yabloko-03-l
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/720f4860e4fa6ba1_4690228030925.jpg
-Описание товара: Напиток Агуша, с соком, яблоко
-Цена товара: 73
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/tvorog-samokat-s-6-mesyacev-5percent-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/fb3257b8-c650-4dcd-af98-7da4d80fbf42.jpg
-Описание товара: Творог Самокат с 
-Цена товара: 48
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/tvorog-samokat-s-grushej-s-6-mesyacev-42percent-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/b367af9a-ce76-4a1e-958b-9c81abb645c8.jpg
-Описание товара: Творог Самокат с грушей, с 
-Цена товара: 45
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/tvorog-samokat-c-persikom-s-6-mesyacev-42percent-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/80b84b29-c642-42c5-a4f8-02987f33d3f2.jpg
-Описание товара: Творог Самокат c персиком, с 
-Цена товара: 45
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/moloko-samokat-ultrapasterizovannoe-s-8-mesyacev-32percent-200-ml
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/cbc8a0e3-f77c-4900-95e5-b7ef6e95c5b2.jpg
-Описание товара: Молоко Самокат ультрапастеризованное, с 
-Цена товара: 47
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/a0f18a63-d299-11eb-85ac-1c34dae33151
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/eedc66f6-6e50-4968-9212-450530dff535.jpg
-Описание товара: Бифилайф Самокат яблоко и банан, с 
-Цена товара: 53
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/bifilajf-samokat-chernika-s-8-mesyacev-25percent-210-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/cff4773d-63dd-4730-bfdb-124e29ba08d7.jpg
-Описание товара: Бифилайф Самокат черника, с 
-Цена товара: 53
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/koktejl-molochnyj-samokat-banan-s-12-mesyacev-25percent-205-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/0e00d436-d454-49a4-b3a5-7e84a1be3033.jpg
-Описание товара: Коктейль молочный Самокат банан, с 
-Цена товара: 53
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/koktejl-molochnyj-samokat-klubnika-s-12-mesyacev-25percent-205-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/04f129bd-b680-4edb-a20e-1db04de7c67e.jpg
-Описание товара: Коктейль молочный Самокат клубника, с 
-Цена товара: 53
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/koktejl-molochnyj-samokat-detskij-vanil-s-12-mesyacev-25percent-200-ml
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/c366f7c6-09d0-4d65-a051-86426babc245.jpg
-Описание товара: Коктейль молочный Самокат детский, ваниль, с 
-Цена товара: 49
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/00abdb3a-c507-11ee-b10b-08c0eb31fffb
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/236000f7-48cd-4854-a7b8-9765bcc6081b.jpg
-Описание товара: Молочный коктейль Самокат, 
-Цена товара: 53
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-samokat-grusha-s-4-mesyacev-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/c889b2bb4f1d9be8_4610015301281.jpg
-Описание товара: Пюре Самокат груша, с 
-Цена товара: 70
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/b4cb1eb7-719b-11ee-ae79-08c0eb320147
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/5e578e29-5e6d-4d4a-9662-1dd5f5fdea9c.jpg
-Описание товара: Пюре Самокат, с творогом, черника и смородина, с 
-Цена товара: 45
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-samokat-yabloko-s-4-mesyacev-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/1b13ed81-950a-4c19-be48-99d89ea38803.jpg
-Описание товара: Пюре Самокат яблоко, с 
-Цена товара: 65
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-samokat-yabloko-i-grusha-s-4-mesyacev-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/0547931d77a4b1c0_4610015301366.jpg
-Описание товара: Пюре Самокат яблоко и груша, с 
-Цена товара: 69
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-samokat-yabloko-s-6-mesyacev-90-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/246ecaa405781019_4812021002859.jpg
 Описание товара: Пюре Самокат, яблоко, с 
-Цена товара: 57
+Цена товара старая: 65
+Цена товара новая: 55
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-samokat-yabloko-i-grusha-s-4-mesyacev-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/0547931d77a4b1c0_4610015301366.jpg
+Описание товара: Пюре Самокат, яблоко и груша, с 
+Цена товара старая: 69
+Цена товара новая: 59
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -345,78 +137,9 @@ URL изображения: https://cm.samokat.ru/processed/m/public/246ecaa4057
 Ссылка товара: https://samokat.ru/product/pyure-samokat-kabachok-s-4-mesyacev-100-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/44079a4fa8da803a_4812021002910.jpg
-Описание товара: Пюре Самокат кабачок, с 
-Цена товара: 61
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-samokat-morkov-s-4-mesyacev-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/97c15b75830ea0fb_4812021002934.jpg
-Описание товара: Пюре Самокат морковь, с 
-Цена товара: 59
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-samokat-tykva-s-5-mesyacev-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/9d8f2c0898ff70a2_4812021002927.jpg
-Описание товара: Пюре Самокат тыква, с 
-Цена товара: 58
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/3ae2356a-8aba-11ee-b10b-08c0eb31fffb
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/3f9174f5-efae-4064-94db-acc3074ac03e.jpg
-Описание товара: Пюре Самокат, говядина, с 
-Цена товара: 89
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pechene-rastvorimoe-samokat-detskoe-bez-dobavleniya-sahara-s-6-mesyacev-135-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/dec2f4d2c942a5d4_4812021002828-1.jpg
-Описание товара: Печенье Самокат, без сахара, детское, растворимое, с 
-Цена товара: 149
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pechene-rastvorimoe-samokat-v-mire-zhivotnyh-detskoe-s-3-let-150-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/9aa1c68ec2439866_4812021003047-1.jpg
-Описание товара: Печенье растворимое Самокат В мире животных детское, с 
-Цена товара: 120
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pechene-rastvorimoe-samokat-detskoe-na-slivochnom-masle-s-6-mesyacev-150-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/a4bffe1f23409c87_4812021002842-1.jpg
-Описание товара: Печенье растворимое Самокат детское, на сливочном масле, с 
-Цена товара: 120
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/c0b6a5f6-a406-11ee-ae7a-08c0eb320147
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/4a2dcb3b-79eb-4814-b5d8-222fb2f07045.jpg
-Описание товара: Вода Самокат, детская, без газа
-Цена товара: 56
+Описание товара: Пюре Самокат, кабачок, с 
+Цена товара старая: 61
+Цена товара новая: 49
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -426,167 +149,8 @@ URL изображения: https://cm.samokat.ru/processed/m/product_card/4a2dc
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/7daa5120-9241-4e82-8820-f9dfe4712c77.jpg
 Описание товара: Какао-напиток Самокат, детский
-Цена товара: 189
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/c921a669-719b-11ee-ae79-08c0eb320147
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/2b81dba3-c961-43bd-a40e-f25cc6657269.jpg
-Описание товара: Детский пудинг Самокат, с фруктами, сливками и какао, с 
-Цена товара: 45
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/845c97dc-719b-11ee-ae79-08c0eb320147
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/52dc1ba5-be76-4e5c-a0db-7f6275db0a53.jpg
-Описание товара: Молочная каша 
-Цена товара: 46
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/8a5770f6-719b-11ee-ae79-08c0eb320147
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/d78e1b6f-a12a-43f8-92b4-65dd260354a7.jpg
-Описание товара: Гречнево-рисовая каша Самокат, молочная, с фруктами, с 
-Цена товара: 46
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/41b33735-9a91-11ee-b10b-08c0eb31fffb
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/3d4c92a4-31d4-47c0-a639-5413c6019dc6.jpg
-Описание товара: Яблочно-вишнёвый нектар Самокат
-Цена товара: 39
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/23a97766-9a91-11ee-b10b-08c0eb31fffb
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/88c8d85f-7672-40f1-90e6-3f60b5269872.jpg
-Описание товара: Яблочно-банановый нектар Самокат
-Цена товара: 39
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/sok-samokat-multifrukt-02-l
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/0e7395f46d4e5577_4812021002897-1.jpg
-Описание товара: Сок Самокат, мультифрукт
-Цена товара: 45
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/tvorog-samokat-s-6-mesyacev-5percent-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/fb3257b8-c650-4dcd-af98-7da4d80fbf42.jpg
-Описание товара: Творог Самокат с 
-Цена товара: 48
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/tvorog-samokat-s-grushej-s-6-mesyacev-42percent-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/b367af9a-ce76-4a1e-958b-9c81abb645c8.jpg
-Описание товара: Творог Самокат с грушей, с 
-Цена товара: 45
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/tvorog-samokat-c-persikom-s-6-mesyacev-42percent-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/80b84b29-c642-42c5-a4f8-02987f33d3f2.jpg
-Описание товара: Творог Самокат c персиком, с 
-Цена товара: 45
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/bifilajf-samokat-chernika-s-8-mesyacev-25percent-210-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/cff4773d-63dd-4730-bfdb-124e29ba08d7.jpg
-Описание товара: Бифилайф Самокат черника, с 
-Цена товара: 53
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/a0f18a63-d299-11eb-85ac-1c34dae33151
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/eedc66f6-6e50-4968-9212-450530dff535.jpg
-Описание товара: Бифилайф Самокат яблоко и банан, с 
-Цена товара: 53
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/koktejl-molochnyj-samokat-banan-s-12-mesyacev-25percent-205-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/0e00d436-d454-49a4-b3a5-7e84a1be3033.jpg
-Описание товара: Коктейль молочный Самокат банан, с 
-Цена товара: 53
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/koktejl-molochnyj-samokat-klubnika-s-12-mesyacev-25percent-205-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/04f129bd-b680-4edb-a20e-1db04de7c67e.jpg
-Описание товара: Коктейль молочный Самокат клубника, с 
-Цена товара: 53
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/koktejl-molochnyj-samokat-detskij-vanil-s-12-mesyacev-25percent-200-ml
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/c366f7c6-09d0-4d65-a051-86426babc245.jpg
-Описание товара: Коктейль молочный Самокат детский, ваниль, с 
-Цена товара: 49
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/00abdb3a-c507-11ee-b10b-08c0eb31fffb
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/236000f7-48cd-4854-a7b8-9765bcc6081b.jpg
-Описание товара: Молочный коктейль Самокат, 
-Цена товара: 53
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/20753da8-5a22-11ea-a7b3-0050560306e1
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/99d04024-5679-4f9c-af69-0e7dd3bfcd2c.jpg
-Описание товара: Молоко Агуша, 
-Цена товара: 53
+Цена товара старая: 189
+Цена товара новая: 139
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -596,377 +160,8 @@ URL изображения: https://cm.samokat.ru/processed/m/product_card/99d04
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/0d57700113698207_4602541001674.jpg
 Описание товара: Молоко Агуша ультрапастеризованное, витаминизированное, для детей, 
-Цена товара: 105
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/2c27af40-01c7-11ec-a0ee-ec0d9a21b021
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/83869583-f17a-4aeb-8db6-217c608c0324.jpg
-Описание товара: Ряженка Агуша клубника, с 
-Цена товара: 65
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/jogurt-agusha-pitevoj-yabloko-i-grusha-s-8-mesyacev-27percent-180-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/7bae2065-73ed-418a-a30c-296772b87ff6.jpg
-Описание товара: Питьевой йогурт Агуша, 
-Цена товара: 69
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/27a880a4-beab-11ee-ae7a-08c0eb320147
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/0517a944-f2bb-471a-a207-05ac0cd33263.jpg
-Описание товара: Молочный коктейль Агуша, 
-Цена товара: 55
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/27a88c56-beab-11ee-ae7a-08c0eb320147
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/8e1eeb19-afd0-4292-bec4-4c9fb196991d.jpg
-Описание товара: Молочный коктейль Агуша, 
-Цена товара: 55
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/ff71a350-5074-11ee-885f-08c0eb32014b
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/1e44c561-baeb-469e-9f07-8ec7ffe674be.jpg
-Описание товара: Кисломолочный напиток Actimuno Kids, 
-Цена товара: 42
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/387174a7-12c1-11eb-8599-1c34dae33151
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/ba9ac5df-e7ed-4e97-a781-f026a8ac8ddf.jpg
-Описание товара: Биолакт Тёма, 
-Цена товара: 55
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/37e9d7e0-fd19-11ec-8859-08c0eb32014b
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/5d92278c-2d51-4a11-a882-79b56af21854.jpg
-Описание товара: Биолакт Тёма, 
-Цена товара: 55
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/biolakt-tyoma-kislomolochnyj-klubnika-banan-s-8-mesyacev-3percent-206-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/db7420b2-12cc-45c6-b0f8-57a70337f32d.jpg
-Описание товара: Биолакт Тёма, 
-Цена товара: 55
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/984450f8-2312-11ea-84c3-0050560306e1
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/bb5689ec000b634c_4600338006932.jpg
-Описание товара: Молоко ФрутоНяня ультрапастеризованное с 
-Цена товара: 49
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/koktejl-molochnyj-frutonyanya-klubnika-i-zemlyanika-s-12-mesyacev-21percent-200-ml
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/78e9fbe4c8d1266d_4600338008356.jpg
-Описание товара: Молочный коктейль ФрутоНяня, 
-Цена товара: 55
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/13b547d1-27af-11ea-a07d-0050560306e1
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/7faad5f23b48c475_4600338008424.jpg
-Описание товара: Молочный коктейль ФрутоНяня, 
-Цена товара: 59
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/koktejl-molochnyj-frutonyanya-banan-s-12-mesyacev-21percent-200-ml
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/b885afc7-13c4-43b7-acca-bd4b293b2b17.jpg
-Описание товара: Молочный коктейль ФрутоНяня, 
-Цена товара: 55
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/jogurt-frutonyanya-pitevoj-s-prebiotikami-i-probiotikami-klubnika-banan-s-8-mesyacev-25percent-200-ml
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/375b53f1-10a2-420e-acec-ca028aef0e3d.jpg
-Описание товара: Питьевой йогурт ФрутоНяня, 
-Цена товара: 59
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/984450f3-2312-11ea-84c3-0050560306e1
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/original/94750_345068731.jpg
-Описание товара: Биотворог ФрутоНяня, 
-Цена товара: 47
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/biotvorog-frutonyanya-zemlyanika-ezhevika-i-chernika-s-6-mesyacev-42percent-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/aaedfcff-f39a-4aba-9387-7400e50956eb.jpg
-Описание товара: Биотворог ФрутоНяня, 
-Цена товара: 47
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/b18657cb-b7eb-11eb-85ab-1c34dae33151
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/f0545ea77559b151_4600605022931.jpg
-Описание товара: Йогурт Растишка, 
-Цена товара: 61
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/3c17bbee-b4b1-11eb-85ab-1c34dae33151
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/65671a2f-d836-406c-a953-009bd8c85f59.jpg
-Описание товара: Коктейль молочный Авида Авишка ультрапастеризованный, клубничный, 
-Цена товара: 38
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-samokat-kabachok-s-4-mesyacev-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/44079a4fa8da803a_4812021002910.jpg
-Описание товара: Пюре Самокат кабачок, с 
-Цена товара: 61
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-samokat-morkov-s-4-mesyacev-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/97c15b75830ea0fb_4812021002934.jpg
-Описание товара: Пюре Самокат морковь, с 
-Цена товара: 59
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-samokat-tykva-s-5-mesyacev-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/9d8f2c0898ff70a2_4812021002927.jpg
-Описание товара: Пюре Самокат тыква, с 
-Цена товара: 58
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/39e5b8dc-fa98-11e8-80c5-0cc47a817925
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/aaf4e13b4e2727b4_4600338004884.jpg
-Описание товара: Пюре ФрутоНяня из капусты брокколи, с 
-Цена товара: 67
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/39e5b8f6-fa98-11e8-80c5-0cc47a817925
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/44db3f9dd3ba3fcb_4600338004891.jpg
-Описание товара: Пюре ФрутоНяня цветная капуста, с 
-Цена товара: 67
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/a020d1f6-4b1a-11e9-80c5-0cc47a817925
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/84c744185fee3071_4600338006727.jpg
-Описание товара: Пюре ФрутоНяня кабачок, с 
-Цена товара: 67
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/a020d1f7-4b1a-11e9-80c5-0cc47a817925
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/8d79b06de1de6d5d_4600338007847.jpg
-Описание товара: Пюре ФрутоНяня Мой первый салатик брокколи, кабачок и цветная капуста, с 
-Цена товара: 67
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/331ca0fd-2ce8-11ec-a0ee-ec0d9a21b021
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/cd484e2325961459_4600338010496.jpg
-Описание товара: Суп-пюре ФрутоНяня гречка, картофель и кабачок, с 
-Цена товара: 70
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/373850fc-59f2-11ed-ae75-08c0eb320147
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/1b6e29b729e6d8bf_4680019564418.jpg
-Описание товара: Пюре Сады Придонья брокколи, с 
-Цена товара: 47
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/3ae2356a-8aba-11ee-b10b-08c0eb31fffb
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/3f9174f5-efae-4064-94db-acc3074ac03e.jpg
-Описание товара: Пюре Самокат, говядина, с 
-Цена товара: 89
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-frutonyanya-cyplyonok-s-6-mesyacev-80-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/1694424831-4600338004488.jpg
-Описание товара: Пюре ФрутоНяня цыплёнок, с 
-Цена товара: 99
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/39e5b8f8-fa98-11e8-80c5-0cc47a817925
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/eae0c1c2da153bf0_4600338004518.jpg
-Описание товара: Пюре ФрутоНяня индейка, с 
-Цена товара: 109
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-frutonyanya-indejka-i-ovoschi-s-8-mesyacev-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/11056a2844a40998_4600338007687.jpg
-Описание товара: Пюре ФрутоНяня индейка и овощи, с 
-Цена товара: 85
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/331ca0fb-2ce8-11ec-a0ee-ec0d9a21b021
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/37cd2129-dcad-431e-9315-6f741f7fe00d.jpg
-Описание товара: Пюре ФрутоНяня индейка, картофель, брокколи, с 
-Цена товара: 129
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-samokat-yabloko-s-4-mesyacev-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/1b13ed81-950a-4c19-be48-99d89ea38803.jpg
-Описание товара: Пюре Самокат яблоко, с 
-Цена товара: 65
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-samokat-grusha-s-4-mesyacev-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/c889b2bb4f1d9be8_4610015301281.jpg
-Описание товара: Пюре Самокат груша, с 
-Цена товара: 70
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-samokat-yabloko-i-grusha-s-4-mesyacev-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/0547931d77a4b1c0_4610015301366.jpg
-Описание товара: Пюре Самокат яблоко и груша, с 
-Цена товара: 69
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-samokat-yabloko-s-6-mesyacev-90-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/246ecaa405781019_4812021002859.jpg
-Описание товара: Пюре Самокат, яблоко, с 
-Цена товара: 57
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-agusha-fruktovoe-yabloko-malina-i-shipovnik-s-5-mesyacev-90-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/original/178089_1971845238.jpg
-Описание товара: Фруктовое пюре Агуша, яблоко, малина и шиповник, с 
-Цена товара: 75
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-agusha-yabloko-ezhevika-i-malina-s-5-mesyacev-90-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/original/74444_1100987285.jpg
-Описание товара: Пюре Агуша яблоко, ежевика и малина, с 
-Цена товара: 75
+Цена товара старая: 105
+Цена товара новая: 88
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -976,147 +171,30 @@ URL изображения: https://cm.samokat.ru/processed/m/original/74444_110
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/f6b7a748-c163-4417-ab28-6639242cf98f.jpg
 Описание товара: Пюре Агуша яблоко и банан, со вкусом печенья, с 
-Цена товара: 75
+Цена товара старая: 75
+Цена товара новая: 59
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Для детей и родителей
 Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-agusha-yabloko-s-4-mesyacev-90-g
+Ссылка товара: https://samokat.ru/product/pyure-agusha-yabloko-ezhevika-i-malina-s-5-mesyacev-90-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/1804e76e-21e7-43db-ac21-cdfa8b3f4fc9.jpg
-Описание товара: Пюре Агуша яблоко, с 
-Цена товара: 75
+URL изображения: https://cm.samokat.ru/processed/m/original/74444_1100987285.jpg
+Описание товара: Пюре Агуша яблоко, ежевика и малина, с 
+Цена товара старая: 75
+Цена товара новая: 59
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Для детей и родителей
 Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-agusha-fruktovoe-grusha-s-4-mesyacev-90-g
+Ссылка товара: https://samokat.ru/product/pyure-agusha-fruktovoe-yabloko-malina-i-shipovnik-s-5-mesyacev-90-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/b0cc31bcf1e51c39_4690228028946.jpg
-Описание товара: Пюре Агуша фруктовое, груша, с 
-Цена товара: 79
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-frutonyanya-fruktovyj-salatik-s-6-mesyacev-90-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/35da2aefebb89921_4600338007700.jpg
-Описание товара: Пюре ФрутоНяня Фруктовый салатик с 
-Цена товара: 75
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/3fde2590-fa98-11e8-80c5-0cc47a817925
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/6afc1f8c7e6e7342_4600338006161.jpg
-Описание товара: Пюре ФрутоНяня яблоко, банан, творог, с 
-Цена товара: 75
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-frutonyanya-yabloko-banan-grusha-i-pechene-s-6-mesyacev-90-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/9e0f0ce9dc6a8c1d_4600338008028.jpg
-Описание товара: Пюре ФрутоНяня яблоко, банан, груша и печенье, с 
-Цена товара: 75
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pyure-frutonyanya-yabloko-chernika-i-pechene-s-6-mesyacev-90-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/f826b600-66e9-42f6-b3d9-04cfacfa6597.jpg
-Описание товара: Пюре ФрутоНяня яблоко, черника и печенье, с 
-Цена товара: 75
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/desert-frutonyanya-yabloko-banan-i-klubnika-s-7-mesyacev-90-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/1fe1455d-b9ed-4333-9278-2b1025c800d6.jpg
-Описание товара: Десерт ФрутоНяня яблоко, банан и клубника, с 
-Цена товара: 75
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/06acec6b-ef3b-11ed-ae78-08c0eb320147
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/c6acde0a70b5441c_4813538007191.jpg
-Описание товара: Из Беларуси: Пюре фруктовое Bambolina из груши
-Цена товара: 59
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/b0c755a3-d7c5-11ee-b10b-08c0eb31fffb
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/e80b60ca-f800-45c5-b06a-509df5231a2e.jpg
-Описание товара: Пюре Bambolina, яблоко и банан, с 
-Цена товара: 53
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/bce8c649-d7c5-11ee-b10b-08c0eb31fffb
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/e302a2c6-0cb9-40be-b69d-c80913d7139e.jpg
-Описание товара: Пюре Bambolina, яблоко, с 
-Цена товара: 53
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/ced7a51a-d7c5-11ee-b10b-08c0eb31fffb
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/992c6817-8254-4425-8f6b-b874a9cd7080.jpg
-Описание товара: Пюре Bambolina, яблоко и голубика, с 
-Цена товара: 59
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/41b33735-9a91-11ee-b10b-08c0eb31fffb
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/3d4c92a4-31d4-47c0-a639-5413c6019dc6.jpg
-Описание товара: Яблочно-вишнёвый нектар Самокат
-Цена товара: 39
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/23a97766-9a91-11ee-b10b-08c0eb31fffb
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/88c8d85f-7672-40f1-90e6-3f60b5269872.jpg
-Описание товара: Яблочно-банановый нектар Самокат
-Цена товара: 39
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/sok-samokat-multifrukt-02-l
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/0e7395f46d4e5577_4812021002897-1.jpg
-Описание товара: Сок Самокат, мультифрукт
-Цена товара: 45
+URL изображения: https://cm.samokat.ru/processed/m/original/178089_1971845238.jpg
+Описание товара: Фруктовое пюре Агуша, яблоко, малина и шиповник, с 
+Цена товара старая: 75
+Цена товара новая: 59
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -1126,187 +204,227 @@ URL изображения: https://cm.samokat.ru/processed/m/public/0e7395f46d4
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/720f4860e4fa6ba1_4690228030925.jpg
 Описание товара: Напиток Агуша, с соком, яблоко
-Цена товара: 73
+Цена товара старая: 73
+Цена товара новая: 62
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Для детей и родителей
 Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/3fde2631-fa98-11e8-80c5-0cc47a817925
+Ссылка товара: https://samokat.ru/product/tvorog-samokat-s-6-mesyacev-5percent-100-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/f14633fe-ac79-4751-bbf9-02b8f96612ea.jpg
-Описание товара: Яблочно-вишнёвый сок Агуша, осветлённый
-Цена товара: 53
+URL изображения: https://cm.samokat.ru/processed/m/product_card/fb3257b8-c650-4dcd-af98-7da4d80fbf42.jpg
+Описание товара: Творог Самокат, 
+Цена товара старая: 48
+Цена товара новая: 41
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Для детей и родителей
 Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/3fde2634-fa98-11e8-80c5-0cc47a817925
+Ссылка товара: https://samokat.ru/product/tvorog-samokat-s-grushej-s-6-mesyacev-42percent-100-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/0b5a114e-12be-487c-b2b4-6501130707ff.jpg
-Описание товара: Яблочно-шиповниковый сок Агуша, осветлённый
-Цена товара: 53
+URL изображения: https://cm.samokat.ru/processed/m/product_card/b367af9a-ce76-4a1e-958b-9c81abb645c8.jpg
+Описание товара: Творог Самокат, 
+Цена товара : 45
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Для детей и родителей
 Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/yablochnyj-sok-agusha-osvetlyonnyj-02-l
+Ссылка товара: https://samokat.ru/product/tvorog-samokat-c-persikom-s-6-mesyacev-42percent-100-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/e1d5ddb9-73f0-452b-9879-2edc4068f290.jpg
-Описание товара: Яблочный сок Агуша, осветлённый
-Цена товара: 53
+URL изображения: https://cm.samokat.ru/processed/m/product_card/80b84b29-c642-42c5-a4f8-02987f33d3f2.jpg
+Описание товара: Творог Самокат, 
+Цена товара : 45
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Для детей и родителей
 Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/napitok-agusha-s-sokom-sadovye-yagody-03-l
+Ссылка товара: https://samokat.ru/product/a0f18a63-d299-11eb-85ac-1c34dae33151
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/32f09f1e995e8927_4690228030901.jpg
-Описание товара: Напиток Агуша, с соком, садовые ягоды
-Цена товара: 73
+URL изображения: https://cm.samokat.ru/processed/m/product_card/eedc66f6-6e50-4968-9212-450530dff535.jpg
+Описание товара: Бифилайф Самокат, 
+Цена товара : 53
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Для детей и родителей
 Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/multifruktovyj-sok-frutonyanya-02-l
+Ссылка товара: https://samokat.ru/product/bifilajf-samokat-chernika-s-8-mesyacev-25percent-210-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/4cab7331f8f725b4_4600338007564.jpg
-Описание товара: Мультифруктовый сок ФрутоНяня
-Цена товара: 49
+URL изображения: https://cm.samokat.ru/processed/m/product_card/cff4773d-63dd-4730-bfdb-124e29ba08d7.jpg
+Описание товара: Бифилайф Самокат, 
+Цена товара : 53
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Для детей и родителей
 Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/yablochno-persikovyj-sok-frutonyanya-02-l
+Ссылка товара: https://samokat.ru/product/koktejl-molochnyj-samokat-banan-s-12-mesyacev-25percent-205-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/original/156060_1615483418.jpg
-Описание товара: Яблочно-персиковый сок ФрутоНяня
-Цена товара: 49
+URL изображения: https://cm.samokat.ru/processed/m/product_card/0e00d436-d454-49a4-b3a5-7e84a1be3033.jpg
+Описание товара: Молочный коктейль Самокат, 
+Цена товара старая: 53
+Цена товара новая: 45
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Для детей и родителей
 Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/yablochnyj-sok-frutonyanya-02-l
+Ссылка товара: https://samokat.ru/product/koktejl-molochnyj-samokat-klubnika-s-12-mesyacev-25percent-205-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/5280fbdda9c0fb28_4600338000183.jpg
-Описание товара: Яблочный сок ФрутоНяня
-Цена товара: 49
+URL изображения: https://cm.samokat.ru/processed/m/product_card/04f129bd-b680-4edb-a20e-1db04de7c67e.jpg
+Описание товара: Молочный коктейль Самокат, 
+Цена товара старая: 53
+Цена товара новая: 45
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Для детей и родителей
 Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/3fde2605-fa98-11e8-80c5-0cc47a817925
+Ссылка товара: https://samokat.ru/product/koktejl-molochnyj-samokat-detskij-vanil-s-12-mesyacev-25percent-200-ml
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/c302e6add70b3185_4600338002460.jpg
-Описание товара: Яблочно-персиковый сок ФрутоНяня
-Цена товара: 95
+URL изображения: https://cm.samokat.ru/processed/m/product_card/c366f7c6-09d0-4d65-a051-86426babc245.jpg
+Описание товара: Молочный коктейль Самокат, 
+Цена товара старая: 49
+Цена товара новая: 42
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Для детей и родителей
 Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/multifruktovyj-sok-frutonyanya-05-l
+Ссылка товара: https://samokat.ru/product/00abdb3a-c507-11ee-b10b-08c0eb31fffb
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/2073e3e5a38ebaf2_4600338002989.jpg
-Описание товара: Мультифруктовый сок ФрутоНяня
-Цена товара: 95
+URL изображения: https://cm.samokat.ru/processed/m/product_card/236000f7-48cd-4854-a7b8-9765bcc6081b.jpg
+Описание товара: Молочный коктейль Самокат, 
+Цена товара старая: 53
+Цена товара новая: 45
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Для детей и родителей
 Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/yablochno-vishnyovyj-sok-frutonyanya-02-l
+Ссылка товара: https://samokat.ru/product/pyure-samokat-grusha-s-4-mesyacev-100-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/16fd048e5bc3ed2e_4600338007724.jpg
-Описание товара: Яблочно-вишнёвый сок ФрутоНяня
-Цена товара: 49
+URL изображения: https://cm.samokat.ru/processed/m/public/c889b2bb4f1d9be8_4610015301281.jpg
+Описание товара: Пюре Самокат, груша, с 
+Цена товара старая: 70
+Цена товара новая: 63
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Для детей и родителей
 Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/98445102-2312-11ea-84c3-0050560306e1
+Ссылка товара: https://samokat.ru/product/b4cb1eb7-719b-11ee-ae79-08c0eb320147
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/9c137fd3c9973c78_4600338006628.jpg
-Описание товара: Яблочно-шиповниковый сок ФрутоНяня
-Цена товара: 49
+URL изображения: https://cm.samokat.ru/processed/m/product_card/5e578e29-5e6d-4d4a-9662-1dd5f5fdea9c.jpg
+Описание товара: Пюре Самокат, с творогом, черника и смородина, с 
+Цена товара : 45
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Для детей и родителей
 Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/kompot-frutonyanya-yabloko-izyum-i-kuraga-02-l
+Ссылка товара: https://samokat.ru/product/pyure-samokat-yabloko-s-4-mesyacev-100-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/aea5260c229b955d_4600338006826.jpg
-Описание товара: Компот ФрутоНяня, яблоко, изюм и курага
-Цена товара: 55
+URL изображения: https://cm.samokat.ru/processed/m/product_card/1b13ed81-950a-4c19-be48-99d89ea38803.jpg
+Описание товара: Пюре Самокат, яблоко, с 
+Цена товара старая: 65
+Цена товара новая: 55
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Для детей и родителей
 Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/005ea801-ef3b-11ed-ae78-08c0eb320147
+Ссылка товара: https://samokat.ru/product/pyure-samokat-yabloko-i-grusha-s-4-mesyacev-100-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/a74f0c3532ce37bc_4813538003766.jpg
-Описание товара: Из Беларуси: Яблочно-банановый нектар Bambolina
-Цена товара: 45
+URL изображения: https://cm.samokat.ru/processed/m/public/0547931d77a4b1c0_4610015301366.jpg
+Описание товара: Пюре Самокат, яблоко и груша, с 
+Цена товара старая: 69
+Цена товара новая: 59
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Для детей и родителей
 Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/005eaa5f-ef3b-11ed-ae78-08c0eb320147
+Ссылка товара: https://samokat.ru/product/pyure-samokat-yabloko-s-6-mesyacev-90-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/b78a621a49644690_4813538006378.jpg
-Описание товара: Из Беларуси: Яблочно-шиповниковый сок Bambolina
-Цена товара: 45
+URL изображения: https://cm.samokat.ru/processed/m/public/246ecaa405781019_4812021002859.jpg
+Описание товара: Пюре Самокат, яблоко, с 
+Цена товара : 57
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Для детей и родителей
 Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/06ace7ac-ef3b-11ed-ae78-08c0eb320147
+Ссылка товара: https://samokat.ru/product/pyure-samokat-kabachok-s-4-mesyacev-100-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/0817de1a1250d0e1_4813538004237.jpg
-Описание товара: Из Беларуси: Сок Bambolina, мультифрукт
-Цена товара: 45
+URL изображения: https://cm.samokat.ru/processed/m/public/44079a4fa8da803a_4812021002910.jpg
+Описание товара: Пюре Самокат, кабачок, с 
+Цена товара старая: 61
+Цена товара новая: 49
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Для детей и родителей
 Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/06ace9e9-ef3b-11ed-ae78-08c0eb320147
+Ссылка товара: https://samokat.ru/product/pyure-samokat-morkov-s-4-mesyacev-100-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/7ed2c659fc213da6_4813538003827.jpg
-Описание товара: Из Беларуси: Яблочный сок Bambolina
-Цена товара: 45
+URL изображения: https://cm.samokat.ru/processed/m/public/97c15b75830ea0fb_4812021002934.jpg
+Описание товара: Пюре Самокат, морковь, с 
+Цена товара : 59
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Для детей и родителей
 Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/kasha-frutonyanya-multizlakovaya-molochnaya-yabloko-banan-i-zemlyanika-s-6-mesyacev-200-g
+Ссылка товара: https://samokat.ru/product/pyure-samokat-tykva-s-5-mesyacev-100-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/cf5a3fe686b3ad0d_4600338011493.jpg
-Описание товара: Каша ФрутоНяня мультизлаковая, молочная, яблоко, банан и земляника, с 
-Цена товара: 189
+URL изображения: https://cm.samokat.ru/processed/m/public/9d8f2c0898ff70a2_4812021002927.jpg
+Описание товара: Пюре Самокат, тыква, с 
+Цена товара : 58
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Для детей и родителей
 Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/a020d212-4b1a-11e9-80c5-0cc47a817925
+Ссылка товара: https://samokat.ru/product/pyure-samokat-indejka-s-6-mesyacev-100-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/0c5cd9013b94c972_4600338001296.jpg
-Описание товара: Каша ФрутоНяня овсяная, молочная, с бананом и яблоком, с 
-Цена товара: 189
+URL изображения: https://cm.samokat.ru/processed/m/product_card/575a62c7-04d6-4b17-a680-6020e5c1629e.jpg
+Описание товара: Пюре Самокат, индейка, с 
+Цена товара : 84
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-samokat-cyplyonok-kartofel-i-belokochannaya-kapusta-s-6-mesyacev-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/a0918bb1-7f4c-49d7-9b44-90fd4991333c.jpg
+Описание товара: Пюре Самокат, цыплёнок, картофель и белокочанная капуста, с 
+Цена товара : 72
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-samokat-cyplyonok-s-6-mesyacev-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/c090ef6b-db0b-4f33-8df4-b4927b1248f8.jpg
+Описание товара: Пюре Самокат, цыплёнок, с 
+Цена товара : 84
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/3ae2356a-8aba-11ee-b10b-08c0eb31fffb
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/3f9174f5-efae-4064-94db-acc3074ac03e.jpg
+Описание товара: Пюре Самокат, говядина, с 
+Цена товара : 89
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -1316,7 +434,7 @@ URL изображения: https://cm.samokat.ru/processed/m/public/0c5cd9013b9
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/dec2f4d2c942a5d4_4812021002828-1.jpg
 Описание товара: Печенье Самокат, без сахара, детское, растворимое, с 
-Цена товара: 149
+Цена товара : 149
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -1325,8 +443,8 @@ URL изображения: https://cm.samokat.ru/processed/m/public/dec2f4d2c94
 Ссылка товара: https://samokat.ru/product/pechene-rastvorimoe-samokat-v-mire-zhivotnyh-detskoe-s-3-let-150-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/9aa1c68ec2439866_4812021003047-1.jpg
-Описание товара: Печенье растворимое Самокат В мире животных детское, с 
-Цена товара: 120
+Описание товара: Печенье В мире животных Самокат, детское, растворимое, с 
+Цена товара : 120
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -1335,158 +453,8 @@ URL изображения: https://cm.samokat.ru/processed/m/public/9aa1c68ec24
 Ссылка товара: https://samokat.ru/product/pechene-rastvorimoe-samokat-detskoe-na-slivochnom-masle-s-6-mesyacev-150-g
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/a4bffe1f23409c87_4812021002842-1.jpg
-Описание товара: Печенье растворимое Самокат детское, на сливочном масле, с 
-Цена товара: 120
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/hlebcy-agusha-risovye-mini-grusha-s-12-mesyacev-30-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/edc5bb53f21f9d8c_4690228036866.jpg
-Описание товара: Рисовые хлебцы Агуша, мини, с грушей, с 
-Цена товара: 70
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/biskvit-medvezhonok-barni-s-shokoladnoj-nachinkoj-150-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/caefdb13-f691-4631-a81b-a4c5433daf56.jpg
-Описание товара: Бисквит Медвежонок Барни, с шоколадной начинкой
-Цена товара: 196
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/biskvit-medvezhonok-barni-s-molochnoj-nachinkoj-150-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/8e018407-d5d9-419b-ada0-8b1c0e25a60d.jpg
-Описание товара: Бисквит Медвежонок Барни, с молочной начинкой
-Цена товара: 197
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pirozhnoe-kinder-molochnyj-lomtik-biskvitnoe-28-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/69efaaea-471b-49e6-a069-1b5fefe3fcb9.jpg
-Описание товара: Бисквитное пирожное Kinder, Молочный ломтик
-Цена товара: 64
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/batonchik-kinder-bueno-vafelnyj-molochnyj-shokolad-43-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/b7a744721af0cf7c_80052760.jpg
-Описание товара: Батончик Kinder Bueno, вафельный, молочный шоколад
-Цена товара: 105
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pirozhnoe-kinder-delice-biskvit-39-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/a6ae8a6c-f477-48d0-8c5c-c71668622070.jpg
-Описание товара: Пирожное Kinder Delice, бисквит
-Цена товара: 89
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/shokolad-kinder-maxi-s-molochnoj-nachinkoj-21-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/83b8bc4c-16cc-4305-ad73-93657b78ce3d.jpg
-Описание товара: Шоколад Kinder maxi, с молочной начинкой
-Цена товара: 45
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/shokolad-kinder-chocolate-s-molochnoj-nachinkoj-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/0eabc1ef-cf6c-4c4d-b799-69c5d236b5cb.jpg
-Описание товара: Шоколад Kinder Chocolate, с молочной начинкой
-Цена товара: 169
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/3edbcb8a-e51b-11e9-8d8e-005056030656
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/95db87e6-55ff-4d07-b4de-c7eba863b316.jpg
-Описание товара: Фруктовые кусочки ФрутоНяня, яблоко и малина, с 
-Цена товара: 59
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pechene-frutonyanya-pshenichnoe-rastvorimoe-s-6-mesyacev-120-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/1694443954-4600338010403.jpg
-Описание товара: Печенье ФрутоНяня пшеничное, растворимое, с 
-Цена товара: 139
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/2f98e86d-1c69-11ec-a0ee-ec0d9a21b021
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/1694443936-4600338010410.jpg
-Описание товара: Печенье ФрутоНяня мультизлаковое, растворимое, с 
-Цена товара: 139
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pechene-begemotik-bondi-obogaschyonnoe-kalciem-s-5-mesyacev-180-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/8adb63c1107bf6a6_4603290003681.jpg
-Описание товара: Печенье Бегемотик Бонди обогащённое кальцием, с 
-Цена товара: 92
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/iz-serbii-shokolad-nelino-kids-molochnyj-s-molochnym-napolnitelem-100-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/6afd1a3ec2118946_8606018940219.jpg
-Описание товара: Из Сербии: Молочный шоколад Nelino Kids, с молочным наполнителем
-Цена товара: 132
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/9be99a89-56cb-11ed-b107-08c0eb31fffb
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/c253d3bf84d64b7c_8606018943470.jpg
-Описание товара: Из Сербии: Шоколад Nelino Kids, молочный, с клубнично-чизкейковым наполнителем
-Цена товара: 132
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/9be99a8d-56cb-11ed-b107-08c0eb31fffb
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/d25a75b44069526c_8606018942947.jpg
-Описание товара: Из Сербии: Шоколад Nelino Kids молочный, с молочным наполнителем и печеньем
-Цена товара: 132
+Описание товара: Печенье Самокат, детское, растворимое, на сливочном масле, с 
+Цена товара : 120
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -1496,27 +464,7 @@ URL изображения: https://cm.samokat.ru/processed/m/public/d25a75b4406
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/4a2dcb3b-79eb-4814-b5d8-222fb2f07045.jpg
 Описание товара: Вода Самокат, детская, без газа
-Цена товара: 56
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/voda-frutonyanya-dlya-detej-bez-gaza-033-l
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/5d098a86-638e-4d5a-87b6-4d34945890f6.jpg
-Описание товара: Вода ФрутоНяня, для детей, без газа
-Цена товара: 45
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/voda-svyatoj-istochnik-svetlyachok-dlya-detej-bez-gaza-15-l
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/c5635132-39f7-45c4-aead-2cad6dc666e9.jpg
-Описание товара: Вода Святой Источник, Светлячок, для детей, без газа
-Цена товара: 65
+Цена товара : 56
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -1526,7 +474,8 @@ URL изображения: https://cm.samokat.ru/processed/m/product_card/c5635
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/7daa5120-9241-4e82-8820-f9dfe4712c77.jpg
 Описание товара: Какао-напиток Самокат, детский
-Цена товара: 189
+Цена товара старая: 189
+Цена товара новая: 139
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -1535,18 +484,8 @@ URL изображения: https://cm.samokat.ru/processed/m/product_card/7daa5
 Ссылка товара: https://samokat.ru/product/c921a669-719b-11ee-ae79-08c0eb320147
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/2b81dba3-c961-43bd-a40e-f25cc6657269.jpg
-Описание товара: Детский пудинг Самокат, с фруктами, сливками и какао, с 
-Цена товара: 45
- 
-Город доставки: Липецк
-Адрес доставки: Вермишева,4
-Имя категории: Для детей и родителей
-Имя дополнительной категории: Детское питание
-Ссылка товара: https://samokat.ru/product/pirozhnoe-kinder-molochnyj-lomtik-biskvitnoe-28-g
-Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/69efaaea-471b-49e6-a069-1b5fefe3fcb9.jpg
-Описание товара: Бисквитное пирожное Kinder, Молочный ломтик
-Цена товара: 64
+Описание товара: Пудинг Самокат, детский, с фруктами, сливками и какао, с 
+Цена товара : 45
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -1556,7 +495,7 @@ URL изображения: https://cm.samokat.ru/processed/m/product_card/69efa
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/52dc1ba5-be76-4e5c-a0db-7f6275db0a53.jpg
 Описание товара: Молочная каша 
-Цена товара: 46
+Цена товара : 46
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -1566,7 +505,1219 @@ URL изображения: https://cm.samokat.ru/processed/m/product_card/52dc1
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/d78e1b6f-a12a-43f8-92b4-65dd260354a7.jpg
 Описание товара: Гречнево-рисовая каша Самокат, молочная, с фруктами, с 
-Цена товара: 46
+Цена товара : 46
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/41b33735-9a91-11ee-b10b-08c0eb31fffb
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/3d4c92a4-31d4-47c0-a639-5413c6019dc6.jpg
+Описание товара: Яблочно-вишнёвый нектар Самокат
+Цена товара : 39
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/23a97766-9a91-11ee-b10b-08c0eb31fffb
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/88c8d85f-7672-40f1-90e6-3f60b5269872.jpg
+Описание товара: Яблочно-банановый нектар Самокат
+Цена товара : 39
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/sok-samokat-multifrukt-02-l
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/0e7395f46d4e5577_4812021002897-1.jpg
+Описание товара: Сок Самокат, мультифрукт
+Цена товара : 45
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/tvorog-samokat-s-6-mesyacev-5percent-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/fb3257b8-c650-4dcd-af98-7da4d80fbf42.jpg
+Описание товара: Творог Самокат, 
+Цена товара старая: 48
+Цена товара новая: 41
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/tvorog-samokat-s-grushej-s-6-mesyacev-42percent-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/b367af9a-ce76-4a1e-958b-9c81abb645c8.jpg
+Описание товара: Творог Самокат, 
+Цена товара : 45
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/tvorog-samokat-c-persikom-s-6-mesyacev-42percent-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/80b84b29-c642-42c5-a4f8-02987f33d3f2.jpg
+Описание товара: Творог Самокат, 
+Цена товара : 45
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/bifilajf-samokat-chernika-s-8-mesyacev-25percent-210-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/cff4773d-63dd-4730-bfdb-124e29ba08d7.jpg
+Описание товара: Бифилайф Самокат, 
+Цена товара : 53
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/a0f18a63-d299-11eb-85ac-1c34dae33151
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/eedc66f6-6e50-4968-9212-450530dff535.jpg
+Описание товара: Бифилайф Самокат, 
+Цена товара : 53
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/koktejl-molochnyj-samokat-banan-s-12-mesyacev-25percent-205-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/0e00d436-d454-49a4-b3a5-7e84a1be3033.jpg
+Описание товара: Молочный коктейль Самокат, 
+Цена товара старая: 53
+Цена товара новая: 45
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/koktejl-molochnyj-samokat-klubnika-s-12-mesyacev-25percent-205-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/04f129bd-b680-4edb-a20e-1db04de7c67e.jpg
+Описание товара: Молочный коктейль Самокат, 
+Цена товара старая: 53
+Цена товара новая: 45
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/koktejl-molochnyj-samokat-detskij-vanil-s-12-mesyacev-25percent-200-ml
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/c366f7c6-09d0-4d65-a051-86426babc245.jpg
+Описание товара: Молочный коктейль Самокат, 
+Цена товара старая: 49
+Цена товара новая: 42
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/00abdb3a-c507-11ee-b10b-08c0eb31fffb
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/236000f7-48cd-4854-a7b8-9765bcc6081b.jpg
+Описание товара: Молочный коктейль Самокат, 
+Цена товара старая: 53
+Цена товара новая: 45
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/20753da8-5a22-11ea-a7b3-0050560306e1
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/99d04024-5679-4f9c-af69-0e7dd3bfcd2c.jpg
+Описание товара: Молоко Агуша, 
+Цена товара : 53
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/ab9da7e6-1276-11e9-80c5-0cc47a817925
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/0d57700113698207_4602541001674.jpg
+Описание товара: Молоко Агуша ультрапастеризованное, витаминизированное, для детей, 
+Цена товара старая: 105
+Цена товара новая: 88
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/2c27af40-01c7-11ec-a0ee-ec0d9a21b021
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/83869583-f17a-4aeb-8db6-217c608c0324.jpg
+Описание товара: Ряженка Агуша клубника, с 
+Цена товара старая: 65
+Цена товара новая: 55
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/jogurt-agusha-pitevoj-yabloko-i-grusha-s-8-mesyacev-27percent-180-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/7bae2065-73ed-418a-a30c-296772b87ff6.jpg
+Описание товара: Питьевой йогурт Агуша, 
+Цена товара старая: 69
+Цена товара новая: 52
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/27a880a4-beab-11ee-ae7a-08c0eb320147
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/0517a944-f2bb-471a-a207-05ac0cd33263.jpg
+Описание товара: Молочный коктейль Агуша, 
+Цена товара старая: 55
+Цена товара новая: 44
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/27a88c56-beab-11ee-ae7a-08c0eb320147
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/8e1eeb19-afd0-4292-bec4-4c9fb196991d.jpg
+Описание товара: Молочный коктейль Агуша, 
+Цена товара старая: 55
+Цена товара новая: 44
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/ff71a350-5074-11ee-885f-08c0eb32014b
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/1e44c561-baeb-469e-9f07-8ec7ffe674be.jpg
+Описание товара: Кисломолочный напиток Actimuno Kids, 
+Цена товара старая: 42
+Цена товара новая: 35
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/387174a7-12c1-11eb-8599-1c34dae33151
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/ba9ac5df-e7ed-4e97-a781-f026a8ac8ddf.jpg
+Описание товара: Биолакт Тёма, 
+Цена товара : 55
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/37e9d7e0-fd19-11ec-8859-08c0eb32014b
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/5d92278c-2d51-4a11-a882-79b56af21854.jpg
+Описание товара: Биолакт Тёма, 
+Цена товара : 55
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/biolakt-tyoma-kislomolochnyj-klubnika-banan-s-8-mesyacev-3percent-206-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/db7420b2-12cc-45c6-b0f8-57a70337f32d.jpg
+Описание товара: Биолакт Тёма, 
+Цена товара : 55
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/biotvorog-tyoma-s-klubnikoj-i-bananom-s-6-mesyacev-4percent-95-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/179537b7-5c6a-471b-84fc-2fc708cd7f03.jpg
+Описание товара: Биотворог Тёма, 
+Цена товара : 47
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/984450f8-2312-11ea-84c3-0050560306e1
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/bb5689ec000b634c_4600338006932.jpg
+Описание товара: Молоко ФрутоНяня ультрапастеризованное с 
+Цена товара : 49
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/koktejl-molochnyj-frutonyanya-klubnika-i-zemlyanika-s-12-mesyacev-21percent-200-ml
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/78e9fbe4c8d1266d_4600338008356.jpg
+Описание товара: Молочный коктейль ФрутоНяня, 
+Цена товара : 55
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/13b547d1-27af-11ea-a07d-0050560306e1
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/7faad5f23b48c475_4600338008424.jpg
+Описание товара: Молочный коктейль ФрутоНяня, 
+Цена товара : 59
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/koktejl-molochnyj-frutonyanya-banan-s-12-mesyacev-21percent-200-ml
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/b885afc7-13c4-43b7-acca-bd4b293b2b17.jpg
+Описание товара: Молочный коктейль ФрутоНяня, 
+Цена товара : 55
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/jogurt-frutonyanya-pitevoj-s-prebiotikami-i-probiotikami-klubnika-banan-s-8-mesyacev-25percent-200-ml
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/375b53f1-10a2-420e-acec-ca028aef0e3d.jpg
+Описание товара: Питьевой йогурт ФрутоНяня, 
+Цена товара : 59
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/984450f3-2312-11ea-84c3-0050560306e1
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/original/94750_345068731.jpg
+Описание товара: Биотворог ФрутоНяня, 
+Цена товара старая: 47
+Цена товара новая: 39
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/biotvorog-frutonyanya-zemlyanika-ezhevika-i-chernika-s-6-mesyacev-42percent-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/aaedfcff-f39a-4aba-9387-7400e50956eb.jpg
+Описание товара: Биотворог ФрутоНяня, 
+Цена товара старая: 47
+Цена товара новая: 39
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/b18657cb-b7eb-11eb-85ab-1c34dae33151
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/f0545ea77559b151_4600605022931.jpg
+Описание товара: Йогурт Растишка, 
+Цена товара : 61
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/3c17bbee-b4b1-11eb-85ab-1c34dae33151
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/65671a2f-d836-406c-a953-009bd8c85f59.jpg
+Описание товара: Коктейль молочный Авида Авишка ультрапастеризованный, клубничный, 
+Цена товара : 38
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-samokat-kabachok-s-4-mesyacev-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/44079a4fa8da803a_4812021002910.jpg
+Описание товара: Пюре Самокат, кабачок, с 
+Цена товара старая: 61
+Цена товара новая: 49
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-samokat-morkov-s-4-mesyacev-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/97c15b75830ea0fb_4812021002934.jpg
+Описание товара: Пюре Самокат, морковь, с 
+Цена товара : 59
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-samokat-tykva-s-5-mesyacev-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/9d8f2c0898ff70a2_4812021002927.jpg
+Описание товара: Пюре Самокат, тыква, с 
+Цена товара : 58
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/39e5b8dc-fa98-11e8-80c5-0cc47a817925
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/aaf4e13b4e2727b4_4600338004884.jpg
+Описание товара: Пюре ФрутоНяня из капусты брокколи, с 
+Цена товара : 67
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/39e5b8f6-fa98-11e8-80c5-0cc47a817925
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/44db3f9dd3ba3fcb_4600338004891.jpg
+Описание товара: Пюре ФрутоНяня цветная капуста, с 
+Цена товара : 67
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/a020d1f6-4b1a-11e9-80c5-0cc47a817925
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/84c744185fee3071_4600338006727.jpg
+Описание товара: Пюре ФрутоНяня кабачок, с 
+Цена товара : 67
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/a020d1f7-4b1a-11e9-80c5-0cc47a817925
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/8d79b06de1de6d5d_4600338007847.jpg
+Описание товара: Пюре ФрутоНяня Мой первый салатик брокколи, кабачок и цветная капуста, с 
+Цена товара : 67
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/331ca0fd-2ce8-11ec-a0ee-ec0d9a21b021
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/cd484e2325961459_4600338010496.jpg
+Описание товара: Суп-пюре ФрутоНяня гречка, картофель и кабачок, с 
+Цена товара : 70
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/373850fc-59f2-11ed-ae75-08c0eb320147
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/1b6e29b729e6d8bf_4680019564418.jpg
+Описание товара: Пюре Сады Придонья брокколи, с 
+Цена товара : 47
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-samokat-indejka-s-6-mesyacev-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/575a62c7-04d6-4b17-a680-6020e5c1629e.jpg
+Описание товара: Пюре Самокат, индейка, с 
+Цена товара : 84
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-samokat-cyplyonok-kartofel-i-belokochannaya-kapusta-s-6-mesyacev-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/a0918bb1-7f4c-49d7-9b44-90fd4991333c.jpg
+Описание товара: Пюре Самокат, цыплёнок, картофель и белокочанная капуста, с 
+Цена товара : 72
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-samokat-cyplyonok-s-6-mesyacev-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/c090ef6b-db0b-4f33-8df4-b4927b1248f8.jpg
+Описание товара: Пюре Самокат, цыплёнок, с 
+Цена товара : 84
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/3ae2356a-8aba-11ee-b10b-08c0eb31fffb
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/3f9174f5-efae-4064-94db-acc3074ac03e.jpg
+Описание товара: Пюре Самокат, говядина, с 
+Цена товара : 89
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-frutonyanya-cyplyonok-s-6-mesyacev-80-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/1694424831-4600338004488.jpg
+Описание товара: Пюре ФрутоНяня цыплёнок, с 
+Цена товара : 99
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/39e5b8f8-fa98-11e8-80c5-0cc47a817925
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/eae0c1c2da153bf0_4600338004518.jpg
+Описание товара: Пюре ФрутоНяня индейка, с 
+Цена товара : 109
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-frutonyanya-indejka-i-ovoschi-s-8-mesyacev-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/11056a2844a40998_4600338007687.jpg
+Описание товара: Пюре ФрутоНяня индейка и овощи, с 
+Цена товара : 85
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/331ca0fb-2ce8-11ec-a0ee-ec0d9a21b021
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/37cd2129-dcad-431e-9315-6f741f7fe00d.jpg
+Описание товара: Пюре ФрутоНяня индейка, картофель, брокколи, с 
+Цена товара : 129
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-samokat-yabloko-s-4-mesyacev-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/1b13ed81-950a-4c19-be48-99d89ea38803.jpg
+Описание товара: Пюре Самокат, яблоко, с 
+Цена товара старая: 65
+Цена товара новая: 55
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-samokat-grusha-s-4-mesyacev-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/c889b2bb4f1d9be8_4610015301281.jpg
+Описание товара: Пюре Самокат, груша, с 
+Цена товара старая: 70
+Цена товара новая: 63
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-samokat-yabloko-i-grusha-s-4-mesyacev-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/0547931d77a4b1c0_4610015301366.jpg
+Описание товара: Пюре Самокат, яблоко и груша, с 
+Цена товара старая: 69
+Цена товара новая: 59
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-samokat-yabloko-s-6-mesyacev-90-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/246ecaa405781019_4812021002859.jpg
+Описание товара: Пюре Самокат, яблоко, с 
+Цена товара : 57
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-agusha-fruktovoe-yabloko-malina-i-shipovnik-s-5-mesyacev-90-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/original/178089_1971845238.jpg
+Описание товара: Фруктовое пюре Агуша, яблоко, малина и шиповник, с 
+Цена товара старая: 75
+Цена товара новая: 59
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-agusha-yabloko-ezhevika-i-malina-s-5-mesyacev-90-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/original/74444_1100987285.jpg
+Описание товара: Пюре Агуша яблоко, ежевика и малина, с 
+Цена товара старая: 75
+Цена товара новая: 59
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-agusha-yabloko-i-banan-so-vkusom-pechenya-s-6-mesyacev-90-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/f6b7a748-c163-4417-ab28-6639242cf98f.jpg
+Описание товара: Пюре Агуша яблоко и банан, со вкусом печенья, с 
+Цена товара старая: 75
+Цена товара новая: 59
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-agusha-yabloko-s-4-mesyacev-90-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/1804e76e-21e7-43db-ac21-cdfa8b3f4fc9.jpg
+Описание товара: Пюре Агуша яблоко, с 
+Цена товара старая: 75
+Цена товара новая: 59
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-agusha-fruktovoe-grusha-s-4-mesyacev-90-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/b0cc31bcf1e51c39_4690228028946.jpg
+Описание товара: Пюре Агуша фруктовое, груша, с 
+Цена товара : 79
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-frutonyanya-fruktovyj-salatik-s-6-mesyacev-90-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/35da2aefebb89921_4600338007700.jpg
+Описание товара: Пюре ФрутоНяня Фруктовый салатик с 
+Цена товара : 75
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/3fde2590-fa98-11e8-80c5-0cc47a817925
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/6afc1f8c7e6e7342_4600338006161.jpg
+Описание товара: Пюре ФрутоНяня яблоко, банан, творог, с 
+Цена товара : 75
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-frutonyanya-yabloko-banan-grusha-i-pechene-s-6-mesyacev-90-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/9e0f0ce9dc6a8c1d_4600338008028.jpg
+Описание товара: Пюре ФрутоНяня яблоко, банан, груша и печенье, с 
+Цена товара : 75
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pyure-frutonyanya-yabloko-chernika-i-pechene-s-6-mesyacev-90-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/f826b600-66e9-42f6-b3d9-04cfacfa6597.jpg
+Описание товара: Пюре ФрутоНяня яблоко, черника и печенье, с 
+Цена товара : 75
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/desert-frutonyanya-yabloko-banan-i-klubnika-s-7-mesyacev-90-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/1fe1455d-b9ed-4333-9278-2b1025c800d6.jpg
+Описание товара: Десерт ФрутоНяня яблоко, банан и клубника, с 
+Цена товара : 75
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/06acec6b-ef3b-11ed-ae78-08c0eb320147
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/c6acde0a70b5441c_4813538007191.jpg
+Описание товара: Из Беларуси: Пюре фруктовое Bambolina из груши
+Цена товара старая: 59
+Цена товара новая: 44
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/b0c755a3-d7c5-11ee-b10b-08c0eb31fffb
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/e80b60ca-f800-45c5-b06a-509df5231a2e.jpg
+Описание товара: Пюре Bambolina, яблоко и банан, с 
+Цена товара : 53
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/bce8c649-d7c5-11ee-b10b-08c0eb31fffb
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/e302a2c6-0cb9-40be-b69d-c80913d7139e.jpg
+Описание товара: Пюре Bambolina, яблоко, с 
+Цена товара : 53
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/ced7a51a-d7c5-11ee-b10b-08c0eb31fffb
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/992c6817-8254-4425-8f6b-b874a9cd7080.jpg
+Описание товара: Пюре Bambolina, яблоко и голубика, с 
+Цена товара старая: 59
+Цена товара новая: 44
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/41b33735-9a91-11ee-b10b-08c0eb31fffb
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/3d4c92a4-31d4-47c0-a639-5413c6019dc6.jpg
+Описание товара: Яблочно-вишнёвый нектар Самокат
+Цена товара : 39
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/23a97766-9a91-11ee-b10b-08c0eb31fffb
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/88c8d85f-7672-40f1-90e6-3f60b5269872.jpg
+Описание товара: Яблочно-банановый нектар Самокат
+Цена товара : 39
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/sok-samokat-multifrukt-02-l
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/0e7395f46d4e5577_4812021002897-1.jpg
+Описание товара: Сок Самокат, мультифрукт
+Цена товара : 45
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/napitok-agusha-s-sokom-yabloko-03-l
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/720f4860e4fa6ba1_4690228030925.jpg
+Описание товара: Напиток Агуша, с соком, яблоко
+Цена товара старая: 73
+Цена товара новая: 62
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/3fde2631-fa98-11e8-80c5-0cc47a817925
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/f14633fe-ac79-4751-bbf9-02b8f96612ea.jpg
+Описание товара: Яблочно-вишнёвый сок Агуша, осветлённый
+Цена товара старая: 53
+Цена товара новая: 42
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/3fde2634-fa98-11e8-80c5-0cc47a817925
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/0b5a114e-12be-487c-b2b4-6501130707ff.jpg
+Описание товара: Яблочно-шиповниковый сок Агуша, осветлённый
+Цена товара старая: 53
+Цена товара новая: 42
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/yablochnyj-sok-agusha-osvetlyonnyj-02-l
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/e1d5ddb9-73f0-452b-9879-2edc4068f290.jpg
+Описание товара: Яблочный сок Агуша, осветлённый
+Цена товара старая: 53
+Цена товара новая: 42
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/napitok-agusha-s-sokom-sadovye-yagody-03-l
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/32f09f1e995e8927_4690228030901.jpg
+Описание товара: Напиток Агуша, с соком, садовые ягоды
+Цена товара старая: 73
+Цена товара новая: 62
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/multifruktovyj-sok-frutonyanya-02-l
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/4cab7331f8f725b4_4600338007564.jpg
+Описание товара: Мультифруктовый сок ФрутоНяня
+Цена товара : 49
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/yablochno-persikovyj-sok-frutonyanya-02-l
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/original/156060_1615483418.jpg
+Описание товара: Яблочно-персиковый сок ФрутоНяня
+Цена товара : 49
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/yablochnyj-sok-frutonyanya-02-l
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/5280fbdda9c0fb28_4600338000183.jpg
+Описание товара: Яблочный сок ФрутоНяня
+Цена товара : 49
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/bananovyj-nektar-frutonyanya-s-myakotyu-05-l
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/ac1aebaaac24621b_4600338002514.jpg
+Описание товара: Банановый нектар ФрутоНяня, с мякотью
+Цена товара : 95
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/3fde2605-fa98-11e8-80c5-0cc47a817925
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/c302e6add70b3185_4600338002460.jpg
+Описание товара: Яблочно-персиковый сок ФрутоНяня
+Цена товара : 95
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/multifruktovyj-sok-frutonyanya-05-l
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/2073e3e5a38ebaf2_4600338002989.jpg
+Описание товара: Мультифруктовый сок ФрутоНяня
+Цена товара : 95
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/yablochno-vishnyovyj-sok-frutonyanya-02-l
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/16fd048e5bc3ed2e_4600338007724.jpg
+Описание товара: Яблочно-вишнёвый сок ФрутоНяня
+Цена товара : 49
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/98445102-2312-11ea-84c3-0050560306e1
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/9c137fd3c9973c78_4600338006628.jpg
+Описание товара: Яблочно-шиповниковый сок ФрутоНяня
+Цена товара : 49
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/kompot-frutonyanya-yabloko-izyum-i-kuraga-02-l
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/aea5260c229b955d_4600338006826.jpg
+Описание товара: Компот ФрутоНяня, яблоко, изюм и курага
+Цена товара : 55
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/005ea801-ef3b-11ed-ae78-08c0eb320147
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/a74f0c3532ce37bc_4813538003766.jpg
+Описание товара: Из Беларуси: Яблочно-банановый нектар Bambolina
+Цена товара старая: 45
+Цена товара новая: 34
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/005eaa5f-ef3b-11ed-ae78-08c0eb320147
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/b78a621a49644690_4813538006378.jpg
+Описание товара: Из Беларуси: Яблочно-шиповниковый сок Bambolina
+Цена товара старая: 45
+Цена товара новая: 34
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/06ace7ac-ef3b-11ed-ae78-08c0eb320147
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/0817de1a1250d0e1_4813538004237.jpg
+Описание товара: Из Беларуси: Сок Bambolina, мультифрукт
+Цена товара старая: 45
+Цена товара новая: 34
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/06ace9e9-ef3b-11ed-ae78-08c0eb320147
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/7ed2c659fc213da6_4813538003827.jpg
+Описание товара: Из Беларуси: Яблочный сок Bambolina
+Цена товара старая: 45
+Цена товара новая: 34
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/kasha-frutonyanya-multizlakovaya-molochnaya-yabloko-banan-i-zemlyanika-s-6-mesyacev-200-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/cf5a3fe686b3ad0d_4600338011493.jpg
+Описание товара: Каша ФрутоНяня мультизлаковая, молочная, яблоко, банан и земляника, с 
+Цена товара старая: 189
+Цена товара новая: 155
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/a020d212-4b1a-11e9-80c5-0cc47a817925
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/0c5cd9013b94c972_4600338001296.jpg
+Описание товара: Каша ФрутоНяня овсяная, молочная, с бананом и яблоком, с 
+Цена товара старая: 189
+Цена товара новая: 155
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pechene-rastvorimoe-samokat-detskoe-bez-dobavleniya-sahara-s-6-mesyacev-135-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/dec2f4d2c942a5d4_4812021002828-1.jpg
+Описание товара: Печенье Самокат, без сахара, детское, растворимое, с 
+Цена товара : 149
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pechene-rastvorimoe-samokat-v-mire-zhivotnyh-detskoe-s-3-let-150-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/9aa1c68ec2439866_4812021003047-1.jpg
+Описание товара: Печенье В мире животных Самокат, детское, растворимое, с 
+Цена товара : 120
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pechene-rastvorimoe-samokat-detskoe-na-slivochnom-masle-s-6-mesyacev-150-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/a4bffe1f23409c87_4812021002842-1.jpg
+Описание товара: Печенье Самокат, детское, растворимое, на сливочном масле, с 
+Цена товара : 120
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/hlebcy-agusha-risovye-mini-grusha-s-12-mesyacev-30-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/edc5bb53f21f9d8c_4690228036866.jpg
+Описание товара: Рисовые хлебцы Агуша, мини, с грушей, с 
+Цена товара старая: 70
+Цена товара новая: 57
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/biskvit-medvezhonok-barni-s-shokoladnoj-nachinkoj-150-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/caefdb13-f691-4631-a81b-a4c5433daf56.jpg
+Описание товара: Бисквит Медвежонок Барни, с шоколадной начинкой
+Цена товара старая: 196
+Цена товара новая: 129
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/biskvit-medvezhonok-barni-s-molochnoj-nachinkoj-150-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/8e018407-d5d9-419b-ada0-8b1c0e25a60d.jpg
+Описание товара: Бисквит Медвежонок Барни, с молочной начинкой
+Цена товара старая: 197
+Цена товара новая: 129
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pirozhnoe-kinder-molochnyj-lomtik-biskvitnoe-28-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/69efaaea-471b-49e6-a069-1b5fefe3fcb9.jpg
+Описание товара: Бисквитное пирожное Kinder, Молочный ломтик
+Цена товара : 64
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/batonchik-kinder-bueno-vafelnyj-molochnyj-shokolad-43-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/b7a744721af0cf7c_80052760.jpg
+Описание товара: Батончик Kinder Bueno, вафельный, молочный шоколад
+Цена товара : 105
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pirozhnoe-kinder-delice-biskvit-39-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/a6ae8a6c-f477-48d0-8c5c-c71668622070.jpg
+Описание товара: Пирожное Kinder Delice, бисквит
+Цена товара : 89
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/shokolad-kinder-maxi-s-molochnoj-nachinkoj-21-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/83b8bc4c-16cc-4305-ad73-93657b78ce3d.jpg
+Описание товара: Шоколад Kinder maxi, с молочной начинкой
+Цена товара : 45
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/shokolad-kinder-chocolate-s-molochnoj-nachinkoj-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/0eabc1ef-cf6c-4c4d-b799-69c5d236b5cb.jpg
+Описание товара: Шоколад Kinder Chocolate, с молочной начинкой
+Цена товара : 169
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/3edbcb8a-e51b-11e9-8d8e-005056030656
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/95db87e6-55ff-4d07-b4de-c7eba863b316.jpg
+Описание товара: Фруктовые кусочки ФрутоНяня, яблоко и малина, с 
+Цена товара : 59
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pechene-frutonyanya-pshenichnoe-rastvorimoe-s-6-mesyacev-120-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/1694443954-4600338010403.jpg
+Описание товара: Печенье ФрутоНяня пшеничное, растворимое, с 
+Цена товара : 139
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/2f98e86d-1c69-11ec-a0ee-ec0d9a21b021
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/1694443936-4600338010410.jpg
+Описание товара: Печенье ФрутоНяня мультизлаковое, растворимое, с 
+Цена товара : 139
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pechene-begemotik-bondi-obogaschyonnoe-kalciem-s-5-mesyacev-180-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/8adb63c1107bf6a6_4603290003681.jpg
+Описание товара: Печенье Бегемотик Бонди обогащённое кальцием, с 
+Цена товара : 92
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/iz-serbii-shokolad-nelino-kids-molochnyj-s-molochnym-napolnitelem-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/6afd1a3ec2118946_8606018940219.jpg
+Описание товара: Из Сербии: Молочный шоколад Nelino Kids, с молочным наполнителем
+Цена товара старая: 132
+Цена товара новая: 99
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/9be99a89-56cb-11ed-b107-08c0eb31fffb
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/c253d3bf84d64b7c_8606018943470.jpg
+Описание товара: Из Сербии: Шоколад Nelino Kids, молочный, с клубнично-чизкейковым наполнителем
+Цена товара старая: 132
+Цена товара новая: 99
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/9be99a8d-56cb-11ed-b107-08c0eb31fffb
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/d25a75b44069526c_8606018942947.jpg
+Описание товара: Из Сербии: Шоколад Nelino Kids молочный, с молочным наполнителем и печеньем
+Цена товара старая: 132
+Цена товара новая: 99
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/c0b6a5f6-a406-11ee-ae7a-08c0eb320147
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/4a2dcb3b-79eb-4814-b5d8-222fb2f07045.jpg
+Описание товара: Вода Самокат, детская, без газа
+Цена товара : 56
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/voda-frutonyanya-dlya-detej-bez-gaza-033-l
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/5d098a86-638e-4d5a-87b6-4d34945890f6.jpg
+Описание товара: Вода ФрутоНяня, для детей, без газа
+Цена товара старая: 45
+Цена товара новая: 35
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/voda-svyatoj-istochnik-svetlyachok-dlya-detej-bez-gaza-15-l
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/c5635132-39f7-45c4-aead-2cad6dc666e9.jpg
+Описание товара: Вода Святой Источник, Светлячок, для детей, без газа
+Цена товара : 65
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/20f5c1a3-9bff-11ea-bc7d-0050560306e1
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/a90d9734-2d68-412d-ac78-e919f02f84ca.jpg
+Описание товара: Вода Святой Источник, Светлячок, для детей, без газа
+Цена товара : 149
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/b8b91b69-c4d3-11ee-b10b-08c0eb31fffb
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/7daa5120-9241-4e82-8820-f9dfe4712c77.jpg
+Описание товара: Какао-напиток Самокат, детский
+Цена товара старая: 189
+Цена товара новая: 139
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/c921a669-719b-11ee-ae79-08c0eb320147
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/2b81dba3-c961-43bd-a40e-f25cc6657269.jpg
+Описание товара: Пудинг Самокат, детский, с фруктами, сливками и какао, с 
+Цена товара : 45
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/pirozhnoe-kinder-molochnyj-lomtik-biskvitnoe-28-g
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/69efaaea-471b-49e6-a069-1b5fefe3fcb9.jpg
+Описание товара: Бисквитное пирожное Kinder, Молочный ломтик
+Цена товара : 64
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/845c97dc-719b-11ee-ae79-08c0eb320147
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/52dc1ba5-be76-4e5c-a0db-7f6275db0a53.jpg
+Описание товара: Молочная каша 
+Цена товара : 46
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Для детей и родителей
+Имя дополнительной категории: Детское питание
+Ссылка товара: https://samokat.ru/product/8a5770f6-719b-11ee-ae79-08c0eb320147
+Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/d78e1b6f-a12a-43f8-92b4-65dd260354a7.jpg
+Описание товара: Гречнево-рисовая каша Самокат, молочная, с фруктами, с 
+Цена товара : 46
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -1576,7 +1727,8 @@ URL изображения: https://cm.samokat.ru/processed/m/product_card/d78e1
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/654e6cc439e886de_4690228029929.jpg
 Описание товара: Кашка Агуша Засыпай-ка молочно-рисовая, с яблоком и грушей, с 
-Цена товара: 65
+Цена товара старая: 65
+Цена товара новая: 50
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -1586,7 +1738,8 @@ URL изображения: https://cm.samokat.ru/processed/m/public/654e6cc439e
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/7bfeca78a113152c_4690228029943.jpg
 Описание товара: Кашка Агуша Засыпай-ка молочно-гречневая, с 
-Цена товара: 65
+Цена товара старая: 65
+Цена товара новая: 50
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -1596,7 +1749,8 @@ URL изображения: https://cm.samokat.ru/processed/m/public/7bfeca78a11
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/fa3ddce33e1a10b3_4600338007397.jpg
 Описание товара: Каша ФрутоНяня мультизлаковая, молочная, с персиком, с 
-Цена товара: 61
+Цена товара старая: 61
+Цена товара новая: 50
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -1606,7 +1760,8 @@ URL изображения: https://cm.samokat.ru/processed/m/public/fa3ddce33e1
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/af148027c0009594_4600338007410.jpg
 Описание товара: Каша ФрутоНяня молочно-рисовая, малина, с 
-Цена товара: 61
+Цена товара старая: 61
+Цена товара новая: 50
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -1616,7 +1771,8 @@ URL изображения: https://cm.samokat.ru/processed/m/public/af148027c00
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/742e1dfb074d8dfe_4600338003924.jpg
 Описание товара: Каша ФрутоНяня молочно-овсяная, с бананом, с 
-Цена товара: 61
+Цена товара старая: 61
+Цена товара новая: 50
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -1626,7 +1782,8 @@ URL изображения: https://cm.samokat.ru/processed/m/public/742e1dfb074
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/92fb91020cc916be_4600338002118.jpg
 Описание товара: Каша ФрутоНяня молочно-злаковая, с 
-Цена товара: 61
+Цена товара старая: 61
+Цена товара новая: 50
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -1636,7 +1793,8 @@ URL изображения: https://cm.samokat.ru/processed/m/public/92fb91020cc
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/public/457726e78537ce11_4600338001999.jpg
 Описание товара: Каша ФрутоНяня молочно-рисовая, с 
-Цена товара: 61
+Цена товара старая: 61
+Цена товара новая: 50
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -1646,7 +1804,8 @@ URL изображения: https://cm.samokat.ru/processed/m/public/457726e7853
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/original/169363_983929488.jpg
 Описание товара: Каша ФрутоНяня молочно-гречневая, с яблоком, с 
-Цена товара: 61
+Цена товара старая: 61
+Цена товара новая: 50
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
@@ -1656,5 +1815,6 @@ URL изображения: https://cm.samokat.ru/processed/m/original/169363_98
 Url изображения категории: https://cm.samokat.ru/processed/category/e869408e-5504-4edd-83dc-b904a7eea541.jpg
 URL изображения: https://cm.samokat.ru/processed/m/product_card/98fa433c-f404-48c2-9b62-09da95914e09.jpg
 Описание товара: Каша ФрутоНяня пшеничная, молочная, с 
-Цена товара: 61
+Цена товара старая: 61
+Цена товара новая: 50
  
