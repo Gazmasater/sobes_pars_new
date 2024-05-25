@@ -206,6 +206,7 @@ func main() {
 			category = strings.TrimSpace(category)
 			additionalCategories = strings.TrimSuffix(additionalCategories, ",")
 			if category != "" {
+				println("category  mainCategory", category, mainCategory)
 				data.CategoryMap[category] = mainCategory
 			}
 		}
@@ -284,6 +285,14 @@ func main() {
 				price = numericPrice[:3]
 				price_new = numericPrice[3:6]
 
+			case 7:
+				price = numericPrice[:4]
+				price_new = numericPrice[4:7]
+
+			case 8:
+				price = numericPrice[:4]
+				price_new = numericPrice[4:8]
+
 			default:
 				price = numericPrice
 			}
@@ -323,7 +332,7 @@ func main() {
 				src, exists := img.Attr("src")
 				if exists {
 					fmt.Fprintf(writer, "URL изображения: %s\n", src)
-					fmt.Println("URL изображения:", src)
+					//	fmt.Println("URL изображения:", src)
 
 				}
 			})

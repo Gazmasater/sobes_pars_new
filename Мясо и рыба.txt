@@ -1,520 +1,1419 @@
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/kotlety-samokat-iz-indejki-400-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbasa-varyonaya-samokat-doktorskaya-v-narezke-kategoriya-a-200-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/0ce559b5f9f30517_4627078296577-1.jpg
-Описание товара: Котлеты Самокат, из индейки, охлаждённые
-Цена товара: 265
+URL изображения: https://cm.samokat.ru/processed/m/public/f0dde6b7833d3e16_4627138615713-1.jpg
+Описание товара: Докторская колбаса Самокат, нарезка
+Цена товара старая: 208
+Цена товара новая: 165
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/bfcc5d82-934c-11ee-ae7a-08c0eb320147
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbasa-varyonaya-vyazanka-doktorskaya-gost-kategoriya-a-400-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/ce89b313-dd8d-49b4-b2c3-1d9d738d34d2.jpg
-Описание товара: Фаршированные перцы Самокат, со свининой, в томатно-овощном соусе, охлаждённые
-Цена товара: 365
+URL изображения: https://cm.samokat.ru/processed/m/original/60879_1111576615.jpg
+Описание товара: Докторская колбаса Вязанка, ГОСТ
+Цена товара старая: 354
+Цена товара новая: 159
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/d9719ee1-e5ee-11ea-8599-1c34dae33151
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbasa-varyonaya-papa-mozhet-sochnaya-400-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/30ed845d12cf1a88_4670018042949-1.jpg
-Описание товара: Свиной гуляш Слово Мясника, охлаждённый
-Цена товара: 239
+URL изображения: https://cm.samokat.ru/processed/m/public/3926be47a4648066_4607958071678-1.jpg
+Описание товара: Варёная колбаса Папа может, Сочная
+Цена товара старая: 269
+Цена товара новая: 169
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/lopatka-slovo-myasnika-svinaya-ohlazhdyonnaya-800-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbasa-varyonaya-indilajt-grandos-s-file-indejki-400-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/b19826fc764cfbdf_4670018040426-1.jpg
-Описание товара: Свиная лопатка Слово мясника, охлаждённая
-Цена товара: 389
+URL изображения: https://cm.samokat.ru/processed/m/public/e755449816d004b1_4630053877777-1.jpg
+Описание товара: Варёная колбаса Индилайт, Грандос, с филе индейки
+Цена товара старая: 329
+Цена товара новая: 225
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/shashlyk-slovo-myasnika-svinoj-ohlazhdyonnyj-1-kg
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/3fbacd6a-f692-489e-84b6-0071d9519071
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/a6a87fe7e3059a9c_4670018046374-1.jpg
-Описание товара: Свиной шашлык Слово мясника, охлаждённый
-Цена товара: 469
+URL изображения: https://cm.samokat.ru/processed/m/product_card/c7ff57f3-5c63-421e-a920-b60135a72fa3.jpeg
+Описание товара: Варёная колбаса Стародворье, Молочная, ГОСТ
+Цена товара старая: 249
+Цена товара новая: 149
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/c3562c5a-489a-11ee-885f-08c0eb32014b
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/7a75b2e3-e9a6-4440-a6c8-1ac2604a62f6
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/1766fa47-5b11-48be-bc0a-d3afc9a1c26d.jpg
-Описание товара: Свиная лопатка Слово мясника, в маринаде, с натуральными специями, для запекания, охлаждённая
-Цена товара: 445
+URL изображения: https://cm.samokat.ru/processed/m/product_card/f05543f9-939b-47bf-9291-3c5313dcb269.jpg
+Описание товара: Варёная колбаса Семейная трапеза, Докторская, традиционная
+Цена товара старая: 349
+Цена товара новая: 161
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/indejka-indilajt-duhovaya-ohlazhdyonnaya-400-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/7e247fa1-c28c-11ed-885d-08c0eb32014b
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/f163a345-5916-4212-9e2a-d9247968f51a.jpg
-Описание товара: Индейка Индилайт, Духовая, охлаждённая
-Цена товара: 256
+URL изображения: https://cm.samokat.ru/processed/m/public/a61056d511ecc71c_4607075934887-1.jpg
+Описание товара: Варёная колбаса Дым Дымыч, со сливками
+Цена товара старая: 214
+Цена товара новая: 160
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/farsh-slovo-myasnika-po-domashnemu-ohlazhdyonnyj-400-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/varyono-kopchyonyj-servelat-papa-mozhet-finskij-v-vakuume-350-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/383cab822da844b2_4670018042901-1.jpg
-Описание товара: Свино-говяжий фарш Слово мясника, По-домашнему, охлаждённый
-Цена товара: 213
+URL изображения: https://cm.samokat.ru/processed/m/product_card/e7dd0390-7742-49ab-84f7-78d113da0023.jpg
+Описание товара: Варёно-копчёный сервелат Папа может, Финский
+Цена товара старая: 299
+Цена товара новая: 189
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/chevapchichi-miratorg-kolbaski-iz-govyadiny-300-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/4918a6d7-b46e-4618-80da-0bf87785f0ef
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/dd817a4fd076fd81_4630016231127-1.jpg
-Описание товара: Чевапчичи Мираторг Black Angus, из мраморной говядины, охлаждённые
-Цена товара: 245
+URL изображения: https://cm.samokat.ru/processed/m/product_card/685665a8-796e-4713-b953-f3eb4911bdc4.jpg
+Описание товара: Варёно-копчёная колбаса Папа может, ассорти, мраморная и балыковая, нарезка
+Цена товара старая: 159
+Цена товара новая: 119
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/47b0ae3a-9b84-11eb-85a9-1c34dae33151
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbasa-varyono-kopchyonaya-starodvore-myasorubskij-servelat-s-melkorublenym-okorokom-350-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/dae2e7e923194fb1_4670018046190-1.jpg
-Описание товара: Свиные колбаски Слово мясника, Барбекю, для гриля, охлаждённые
-Цена товара: 225
+URL изображения: https://cm.samokat.ru/processed/m/product_card/e90663fb-5152-47e4-a1d8-2f749cefcb64.jpg
+Описание товара: Варёно-копчёный сервелат Стародворье, Мясорубский, с мелкорубленым окороком
+Цена товара старая: 269
+Цена товара новая: 169
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/32aee959-4d0b-11ec-85ad-1c34dae33151
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/02f00b58-a347-11eb-85a9-1c34dae33151
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/b23d5a0d-f96e-4d0b-b837-8d0ed0bc81b0.jpg
-Описание товара: Свиные колбаски Ближние Горки, Шашлычные, охлаждённые
-Цена товара: 215
+URL изображения: https://cm.samokat.ru/processed/m/product_card/3dde8dc5-1e7f-4f4d-8d76-20bf30c09f59.jpg
+Описание товара: Варёно-копчёная колбаса Дубки, Московская
+Цена товара старая: 269
+Цена товара новая: 159
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/87328390-f040-11ee-b973-08c0eb32008b
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/74a5f1d3-fa18-11ed-885e-08c0eb32014b
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/8681bbf7-e967-44d6-827e-136626816802.jpg
-Описание товара: Говядина Самокат, для тушения, охлаждённая
-Цена товара: 375
+URL изображения: https://cm.samokat.ru/processed/m/public/3c9a03c2c574c55d_4610083590846-1.jpg
+Описание товара: Варёно-копчёный сервелат Ближние горки, Зернистый
+Цена товара старая: 269
+Цена товара новая: 169
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/kotlety-samokat-iz-indejki-400-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/853d72a7-c28c-11ed-885d-08c0eb32014b
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/0ce559b5f9f30517_4627078296577-1.jpg
-Описание товара: Котлеты Самокат, из индейки, охлаждённые
-Цена товара: 265
+URL изображения: https://cm.samokat.ru/processed/m/product_card/0a786174-2a19-4503-8580-ce55322c3b67.jpg
+Описание товара: Варёно-копчёный сервелат Дым Дымыч, Царский рецепт
+Цена товара старая: 232
+Цена товара новая: 154
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/golubcy-samokat-ohlazhdyonnye-400-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/a92567f2-1756-11ee-885e-08c0eb32014b
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/68f6b324-2f6a-4404-aea0-87867b61711a.jpg
-Описание товара: Голубцы Самокат, охлаждённые
-Цена товара: 265
+URL изображения: https://cm.samokat.ru/processed/m/public/1d07df7b6190d20f_4610083590839.jpg
+Описание товара: Полукопчёные колбаски Ближние горки, Охотничьи, ГОСТ
+Цена товара старая: 299
+Цена товара новая: 239
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/bfcc5d82-934c-11ee-ae7a-08c0eb320147
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/7f3d0b61-8d25-4dc6-a157-250bbcd618ce
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/ce89b313-dd8d-49b4-b2c3-1d9d738d34d2.jpg
-Описание товара: Фаршированные перцы Самокат, со свининой, в томатно-овощном соусе, охлаждённые
-Цена товара: 365
+URL изображения: https://cm.samokat.ru/processed/m/product_card/55931a12-fd07-4446-8b6e-ffd07b9ec85a.jpg
+Описание товара: Сырокопчёная колбаса Дымов, Австрийская
+Цена товара старая: 299
+Цена товара новая: 199
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/98bae8ec-8dc1-11ee-b973-08c0eb32008b
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbasa-varyonaya-samokat-doktorskaya-v-narezke-kategoriya-a-200-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/1f99f175-cbbe-4cb9-a01b-812397021b99.jpg
-Описание товара: Говяжий стейк Самокат, без кости, порционный, охлаждённый
-Цена товара: 319
+URL изображения: https://cm.samokat.ru/processed/m/public/f0dde6b7833d3e16_4627138615713-1.jpg
+Описание товара: Докторская колбаса Самокат, нарезка
+Цена товара старая: 208
+Цена товара новая: 165
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/d9719ee1-e5ee-11ea-8599-1c34dae33151
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbasa-polukopchyonaya-samokat-krakovskaya-kategoriya-b-400-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/30ed845d12cf1a88_4670018042949-1.jpg
-Описание товара: Свиной гуляш Слово Мясника, охлаждённый
-Цена товара: 239
+URL изображения: https://cm.samokat.ru/processed/m/public/07f8ff6a0405796c_4627138615300-1.jpg
+Описание товара: Полукопчёная колбаса Самокат, Краковская
+Цена товара : 449
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/okorok-svinoj-slovo-myasnika-ohlazhdyonnyj-800-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/83d369aa-0f76-484c-9431-aea5b2a2fa98
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/3fac0cebfbfcba5a_4670018040440-1.jpg
-Описание товара: Свиной окорок Слово мясника, охлаждённый
-Цена товара: 435
+URL изображения: https://cm.samokat.ru/processed/m/product_card/fa011150-3edc-4cce-bdc5-48636b70c224.jpeg
+Описание товара: Сырокопчёная колбаса Самокат, Каринтия, нарезка
+Цена товара : 199
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/lopatka-slovo-myasnika-svinaya-ohlazhdyonnaya-800-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/syrovyalenaya-kolbasa-samokat-strolgino-svinaya-s-tryufelem-110-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/b19826fc764cfbdf_4670018040426-1.jpg
-Описание товара: Свиная лопатка Слово мясника, охлаждённая
-Цена товара: 389
+URL изображения: https://cm.samokat.ru/processed/m/product_card/49350d0b-83ca-4640-8f1d-2b4b4a638960.jpg
+Описание товара: Сыровяленая колбаса Самокат, Строльгино, из свинины, с трюфелем
+Цена товара : 285
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/shashlyk-slovo-myasnika-svinoj-ohlazhdyonnyj-1-kg
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/sosiski-samokat-iz-kurinoj-grudki-400-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/a6a87fe7e3059a9c_4670018046374-1.jpg
-Описание товара: Свиной шашлык Слово мясника, охлаждённый
-Цена товара: 469
+URL изображения: https://cm.samokat.ru/processed/m/product_card/09db9484-7ae9-4c6e-b9f0-06812d6b6fb8.jpg
+Описание товара: Сосиски Самокат, из куриной грудки
+Цена товара : 275
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/c3562c5a-489a-11ee-885f-08c0eb32014b
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/sosiski-samokat-s-syrom-300-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/1766fa47-5b11-48be-bc0a-d3afc9a1c26d.jpg
-Описание товара: Свиная лопатка Слово мясника, в маринаде, с натуральными специями, для запекания, охлаждённая
-Цена товара: 445
+URL изображения: https://cm.samokat.ru/processed/m/product_card/34ab8e2f-500c-4d8a-9a09-60747a34e42f.jpg
+Описание товара: Сосиски Самокат, с сыром
+Цена товара : 264
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/c5520d3b-0a44-11eb-8599-1c34dae33151
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/sosiski-samokat-iz-file-indejki-400-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/a7a6b7d3fe39846f_4607046566055-1.jpg
-Описание товара: Поджарка Ближние Горки, из свинины, охлаждённая
-Цена товара: 239
+URL изображения: https://cm.samokat.ru/processed/m/public/7a8ac66be96194e3_4627138615508-1.jpg
+Описание товара: Сосиски Самокат, из филе индейки
+Цена товара : 323
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/87328390-f040-11ee-b973-08c0eb32008b
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/bekon-samokat-iz-svininy-syrokopchyonyj-narezka-150-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/8681bbf7-e967-44d6-827e-136626816802.jpg
-Описание товара: Говядина Самокат, для тушения, охлаждённая
-Цена товара: 375
+URL изображения: https://cm.samokat.ru/processed/m/product_card/8c77433b-f477-4f41-ba50-8d200deee6a2.jpg
+Описание товара: Сырокопчёный бекон Самокат, из свинины, нарезка
+Цена товара : 215
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/4fd901f6-9602-11eb-85a9-1c34dae33151
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/grudka-indejki-samokat-syrovyalenaya-v-narezke-150-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/original/148124_1911873397.jpg
-Описание товара: Мякоть говядины Родные места, охлаждённая
-Цена товара: 699
+URL изображения: https://cm.samokat.ru/processed/m/public/6213b8cb3e314437_4607056956754-1.jpg
+Описание товара: Сыровяленая грудка индейки Самокат, нарезка
+Цена товара : 356
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/98bae8ec-8dc1-11ee-b973-08c0eb32008b
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/karbonad-varyono-kopchyonyj-samokat-iz-svininy-narezka-v-vakuume-150-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/1f99f175-cbbe-4cb9-a01b-812397021b99.jpg
-Описание товара: Говяжий стейк Самокат, без кости, порционный, охлаждённый
-Цена товара: 319
+URL изображения: https://cm.samokat.ru/processed/m/public/a451f9b64a0d239e_4627138615089-1.jpg
+Описание товара: Варёно-копчёный карбонад Самокат, из свинины, нарезка
+Цена товара : 199
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/stejk-kanzas-miratorg-black-angus-iz-mramornoj-govyadiny-ohlazhdyonnyj-390-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/holodec-samokat-s-govyadinoj-300-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/3898029b-da73-4878-933e-ee2ee00189eb.jpg
-Описание товара: Стейк Канзас Мираторг Black Angus, из мраморной говядины, охлаждённый
-Цена товара: 779
+URL изображения: https://cm.samokat.ru/processed/m/product_card/cee8409a-fa1c-443b-a7f8-0a2159c353a6.jpg
+Описание товара: Холодец Самокат, с говядиной
+Цена товара : 235
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/2ebf0a21-164e-11ec-a0ee-ec0d9a21b021
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/3f628ce5-9420-458e-bcf8-b0b8fec76cd7
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/d44d753a-39e1-4f20-810b-42e223733a9d.jpg
-Описание товара: Стейк Чак ролл Мираторг Black Angus, из мраморной говядины, охлаждённый
-Цена товара: 490
+URL изображения: https://cm.samokat.ru/processed/m/product_card/e733beb7-aa7b-41b1-b8c9-5e52caaede71.jpg
+Описание товара: Паштет Самокат, с куриной печенью и черносливом
+Цена товара : 179
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/file-stejk-miratorg-iz-svininy-v-marinade-s-pryanymi-travami-ohlazhdyonnyj-300-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/pashtet-samokat-iz-pecheni-indejki-s-klyukvoj-i-bazilikom-100-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/original/144268_841766351.jpg
-Описание товара: Филе-стейк Мираторг, из свинины, в маринаде, с пряными травами, охлаждённый
-Цена товара: 229
+URL изображения: https://cm.samokat.ru/processed/m/original/958feeed-2ec6-11ed-885a-08c0eb32014b_1216902194.jpg
+Описание товара: Паштет Самокат, из печени индейки, с клюквой и базиликом
+Цена товара : 103
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/87bee830-9f93-11ec-b967-08c0eb32008b
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/pashtet-samokat-iz-pecheni-indejki-s-greckim-orehom-i-timyanom-100-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/original/87bee830-9f93-11ec-b967-08c0eb32008b_994540018.jpg
-Описание товара: Бедро цыплёнка-бройлера Наша птичка, с хребтом, охлаждённое
-Цена товара: 212
+URL изображения: https://cm.samokat.ru/processed/m/original/8f3c2246-2ec6-11ed-885a-08c0eb32014b_1344296594.jpg
+Описание товара: Паштет Самокат, из печени индейки, с грецким орехом и тимьяном
+Цена товара : 103
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/8e2c2c6d-9f93-11ec-b967-08c0eb32008b
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/pashtet-samokat-iz-myasa-indejki-s-gribami-i-provanskimi-travami-100-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/original/8e2c2c6d-9f93-11ec-b967-08c0eb32008b_2081301714.jpg
-Описание товара: Голень цыплёнка-бройлера Наша птичка, охлаждённая
-Цена товара: 282
+URL изображения: https://cm.samokat.ru/processed/m/original/958feef2-2ec6-11ed-885a-08c0eb32014b_1371606958.jpg
+Описание товара: Паштет Самокат, из индейки, с грибами и прованскими травами
+Цена товара : 103
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/948a127d-9f93-11ec-b967-08c0eb32008b
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbasa-varyonaya-samokat-doktorskaya-v-narezke-kategoriya-a-200-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/original/948a127d-9f93-11ec-b967-08c0eb32008b_304784882.jpg
-Описание товара: Филе грудки цыплёнка-бройлера Наша птичка, охлаждённое
-Цена товара: 440
+URL изображения: https://cm.samokat.ru/processed/m/public/f0dde6b7833d3e16_4627138615713-1.jpg
+Описание товара: Докторская колбаса Самокат, нарезка
+Цена товара старая: 208
+Цена товара новая: 165
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/golen-cyplyonka-brojlera-troekurovo-900-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbasa-varyonaya-vyazanka-doktorskaya-gost-kategoriya-a-400-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/original/158401_2146716058.jpg
-Описание товара: Голень цыплёнка-бройлера Троекурово
-Цена товара: 319
+URL изображения: https://cm.samokat.ru/processed/m/original/60879_1111576615.jpg
+Описание товара: Докторская колбаса Вязанка, ГОСТ
+Цена товара старая: 354
+Цена товара новая: 159
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/file-bedra-cyplyonka-brojlera-troekurovo-750-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbasa-varyonaya-vyazanka-slivushka-375-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/0918259e-3c66-4eb3-8888-959f300e78c5.jpg
-Описание товара: Филе бедра цыплёнка-бройлера Троекурово, охлаждённое
-Цена товара: 369
+URL изображения: https://cm.samokat.ru/processed/m/public/40a40ea63defea6a_4680115880269-1.jpg
+Описание товара: Варёная колбаса Вязанка, Сливушка
+Цена товара : 279
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/file-bedra-indejki-indilajt-ohlazhdyonnoe-410-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbasa-varyonaya-vyazanka-filejskaya-klassicheskaya-450-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/d8c4e175-2bc0-4cb1-afda-79a3255bcafd.jpg
-Описание товара: Филе бедра индейки Индилайт, охлаждённое
-Цена товара: 309
+URL изображения: https://cm.samokat.ru/processed/m/public/e36e3333841896ec_4680115881419-1.jpg
+Описание товара: Варёная колбаса Вязанка, Филейская, Классическая
+Цена товара : 315
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/file-indejki-indilajt-maloe-ohlazhdyonnoe-500-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbasa-varyonaya-papa-mozhet-sochnaya-400-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/f0906c79-1e70-4264-92c5-3cbe471a2889.jpg
-Описание товара: Филе индейки Индилайт, малое, охлаждённое
-Цена товара: 369
+URL изображения: https://cm.samokat.ru/processed/m/public/3926be47a4648066_4607958071678-1.jpg
+Описание товара: Варёная колбаса Папа может, Сочная
+Цена товара старая: 269
+Цена товара новая: 169
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/1737841a-54fd-11eb-85a3-1c34dae33151
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/9536c8b1-f0a0-11ec-b96b-08c0eb32008b
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/9638ef5c-90e4-4ebf-99e0-2a7fd5bb3604.jpg
-Описание товара: Фарш Индилайт, из индейки, охлаждённый
-Цена товара: 225
+URL изображения: https://cm.samokat.ru/processed/m/original/57562_1545514018.jpg
+Описание товара: Варёная колбаса Папа может, Время окрошки
+Цена товара : 199
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/c33f02fb-b1ab-11ec-b0fc-08c0eb31fffb
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/varyonaya-kolbasa-papa-mozhet-domashnyaya-400-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/5d742d6b-2b2e-4d04-9c23-115a9636c870.jpg
-Описание товара: Филе индейки Индилайт, с томатами и орегано, охлаждённое
-Цена товара: 385
+URL изображения: https://cm.samokat.ru/processed/m/product_card/9c246286-4e55-4b0f-aaad-d5ba6f4587a7.jpg
+Описание товара: Варёная колбаса Папа может, Домашняя
+Цена товара : 259
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/indejka-indilajt-duhovaya-ohlazhdyonnaya-400-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbasa-varyonaya-indilajt-grandos-s-file-indejki-400-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/f163a345-5916-4212-9e2a-d9247968f51a.jpg
-Описание товара: Индейка Индилайт, Духовая, охлаждённая
-Цена товара: 256
+URL изображения: https://cm.samokat.ru/processed/m/public/e755449816d004b1_4630053877777-1.jpg
+Описание товара: Варёная колбаса Индилайт, Грандос, с филе индейки
+Цена товара старая: 329
+Цена товара новая: 225
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/farsh-slovo-myasnika-po-domashnemu-ohlazhdyonnyj-400-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/3fbacd6a-f692-489e-84b6-0071d9519071
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/383cab822da844b2_4670018042901-1.jpg
-Описание товара: Свино-говяжий фарш Слово мясника, По-домашнему, охлаждённый
-Цена товара: 213
+URL изображения: https://cm.samokat.ru/processed/m/product_card/c7ff57f3-5c63-421e-a920-b60135a72fa3.jpeg
+Описание товара: Варёная колбаса Стародворье, Молочная, ГОСТ
+Цена товара старая: 249
+Цена товара новая: 149
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/farsh-iz-svininy-slovo-myasnika-ohlazhdyonnyj-400-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbasa-varyonaya-miratorg-doktorskaya-470-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/1126f81fc067a114_4670018042918-1.jpg
-Описание товара: Свиной фарш Слово мясника, охлаждённый
-Цена товара: 189
+URL изображения: https://cm.samokat.ru/processed/m/public/88bea56f19c32ff0_4670002944754-1.jpg
+Описание товара: Докторская колбаса Мираторг, ГОСТ
+Цена товара : 350
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/1737841a-54fd-11eb-85a3-1c34dae33151
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/1cf8a4ae-c2e4-11eb-85ab-1c34dae33151
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/9638ef5c-90e4-4ebf-99e0-2a7fd5bb3604.jpg
-Описание товара: Фарш Индилайт, из индейки, охлаждённый
-Цена товара: 225
+URL изображения: https://cm.samokat.ru/processed/m/public/0801cd028d4e1664_4607077974522.jpg
+Описание товара: Варёная колбаса Губкинский МК, Молочная, Премиум
+Цена товара : 177
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/45d69332-fa98-11e8-80c5-0cc47a817925
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/7a75b2e3-e9a6-4440-a6c8-1ac2604a62f6
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/b2648440a3521283_4630016230588-1.jpg
-Описание товара: Говяжий фарш Мираторг Black Angus, охлаждённый
-Цена товара: 289
+URL изображения: https://cm.samokat.ru/processed/m/product_card/f05543f9-939b-47bf-9291-3c5313dcb269.jpg
+Описание товара: Варёная колбаса Семейная трапеза, Докторская, традиционная
+Цена товара старая: 349
+Цена товара новая: 161
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/d1a5dfd1-2d5b-11eb-859a-1c34dae33151
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/7e247fa1-c28c-11ed-885d-08c0eb32014b
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/original/178558_1632373630.jpg
-Описание товара: Куриный фарш Мираторг, охлаждённый
-Цена товара: 199
+URL изображения: https://cm.samokat.ru/processed/m/public/a61056d511ecc71c_4607075934887-1.jpg
+Описание товара: Варёная колбаса Дым Дымыч, со сливками
+Цена товара старая: 214
+Цена товара новая: 160
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/file-stejk-miratorg-iz-svininy-v-marinade-s-pryanymi-travami-ohlazhdyonnyj-300-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/8f6efb10-6af4-11ed-885b-08c0eb32014b
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/original/144268_841766351.jpg
-Описание товара: Филе-стейк Мираторг, из свинины, в маринаде, с пряными травами, охлаждённый
-Цена товара: 229
+URL изображения: https://cm.samokat.ru/processed/m/public/b0265891ccab33d1__________26.06_(1).jpg
+Описание товара: Варёная колбаса Сагуны, Эстонская
+Цена товара : 259
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/c33f02fb-b1ab-11ec-b0fc-08c0eb31fffb
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/varyono-kopchyonyj-servelat-papa-mozhet-finskij-v-vakuume-350-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/5d742d6b-2b2e-4d04-9c23-115a9636c870.jpg
-Описание товара: Филе индейки Индилайт, с томатами и орегано, охлаждённое
-Цена товара: 385
+URL изображения: https://cm.samokat.ru/processed/m/product_card/e7dd0390-7742-49ab-84f7-78d113da0023.jpg
+Описание товара: Варёно-копчёный сервелат Папа может, Финский
+Цена товара старая: 299
+Цена товара новая: 189
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/c3562c5a-489a-11ee-885f-08c0eb32014b
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/4918a6d7-b46e-4618-80da-0bf87785f0ef
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/1766fa47-5b11-48be-bc0a-d3afc9a1c26d.jpg
-Описание товара: Свиная лопатка Слово мясника, в маринаде, с натуральными специями, для запекания, охлаждённая
-Цена товара: 445
+URL изображения: https://cm.samokat.ru/processed/m/product_card/685665a8-796e-4713-b953-f3eb4911bdc4.jpg
+Описание товара: Варёно-копчёная колбаса Папа может, ассорти, мраморная и балыковая, нарезка
+Цена товара старая: 159
+Цена товара новая: 119
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/kotlety-samokat-iz-indejki-400-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbasa-varyono-kopchyonaya-starodvore-myasorubskij-servelat-s-melkorublenym-okorokom-350-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/0ce559b5f9f30517_4627078296577-1.jpg
-Описание товара: Котлеты Самокат, из индейки, охлаждённые
-Цена товара: 265
+URL изображения: https://cm.samokat.ru/processed/m/product_card/e90663fb-5152-47e4-a1d8-2f749cefcb64.jpg
+Описание товара: Варёно-копчёный сервелат Стародворье, Мясорубский, с мелкорубленым окороком
+Цена товара старая: 269
+Цена товара новая: 169
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/golubcy-samokat-ohlazhdyonnye-400-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/02f00b58-a347-11eb-85a9-1c34dae33151
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/68f6b324-2f6a-4404-aea0-87867b61711a.jpg
-Описание товара: Голубцы Самокат, охлаждённые
-Цена товара: 265
+URL изображения: https://cm.samokat.ru/processed/m/product_card/3dde8dc5-1e7f-4f4d-8d76-20bf30c09f59.jpg
+Описание товара: Варёно-копчёная колбаса Дубки, Московская
+Цена товара старая: 269
+Цена товара новая: 159
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/bfcc5d82-934c-11ee-ae7a-08c0eb320147
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/74a5f1d3-fa18-11ed-885e-08c0eb32014b
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/ce89b313-dd8d-49b4-b2c3-1d9d738d34d2.jpg
-Описание товара: Фаршированные перцы Самокат, со свининой, в томатно-овощном соусе, охлаждённые
-Цена товара: 365
+URL изображения: https://cm.samokat.ru/processed/m/public/3c9a03c2c574c55d_4610083590846-1.jpg
+Описание товара: Варёно-копчёный сервелат Ближние горки, Зернистый
+Цена товара старая: 269
+Цена товара новая: 169
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/chevapchichi-miratorg-kolbaski-iz-govyadiny-300-g
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/853d72a7-c28c-11ed-885d-08c0eb32014b
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/dd817a4fd076fd81_4630016231127-1.jpg
-Описание товара: Чевапчичи Мираторг Black Angus, из мраморной говядины, охлаждённые
-Цена товара: 245
+URL изображения: https://cm.samokat.ru/processed/m/product_card/0a786174-2a19-4503-8580-ce55322c3b67.jpg
+Описание товара: Варёно-копчёный сервелат Дым Дымыч, Царский рецепт
+Цена товара старая: 232
+Цена товара новая: 154
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/47b0ae3a-9b84-11eb-85a9-1c34dae33151
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbasa-polukopchyonaya-samokat-krakovskaya-kategoriya-b-400-g
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/public/dae2e7e923194fb1_4670018046190-1.jpg
-Описание товара: Свиные колбаски Слово мясника, Барбекю, для гриля, охлаждённые
-Цена товара: 225
+URL изображения: https://cm.samokat.ru/processed/m/public/07f8ff6a0405796c_4627138615300-1.jpg
+Описание товара: Полукопчёная колбаса Самокат, Краковская
+Цена товара : 449
  
 Город доставки: Липецк
 Адрес доставки: Вермишева,4
 Имя категории: Мясо и рыба
-Имя дополнительной категории: Мясо и птица
-Ссылка товара: https://samokat.ru/product/32aee959-4d0b-11ec-85ad-1c34dae33151
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/a92567f2-1756-11ee-885e-08c0eb32014b
 Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
-URL изображения: https://cm.samokat.ru/processed/m/product_card/b23d5a0d-f96e-4d0b-b837-8d0ed0bc81b0.jpg
-Описание товара: Свиные колбаски Ближние Горки, Шашлычные, охлаждённые
-Цена товара: 215
+URL изображения: https://cm.samokat.ru/processed/m/public/1d07df7b6190d20f_4610083590839.jpg
+Описание товара: Полукопчёные колбаски Ближние горки, Охотничьи, ГОСТ
+Цена товара старая: 299
+Цена товара новая: 239
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/83d369aa-0f76-484c-9431-aea5b2a2fa98
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/fa011150-3edc-4cce-bdc5-48636b70c224.jpeg
+Описание товара: Сырокопчёная колбаса Самокат, Каринтия, нарезка
+Цена товара : 199
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/7f3d0b61-8d25-4dc6-a157-250bbcd618ce
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/55931a12-fd07-4446-8b6e-ffd07b9ec85a.jpg
+Описание товара: Сырокопчёная колбаса Дымов, Австрийская
+Цена товара старая: 299
+Цена товара новая: 199
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/cf2a1c2b-ef08-11e8-80c5-0cc47a817925
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/ef2a1c23f6599f45_4601296006316-1.jpg
+Описание товара: Сырокопчёная салями Останкино, Итальянская, нарезка
+Цена товара старая: 229
+Цена товара новая: 189
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/8a101305-2ea4-486c-9c4b-5ed3e1029e00
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/407610df-fe97-4a89-8552-f2a08724a4c4.jpg
+Описание товара: Сырокопчёная колбаса Останкино, Неаполитанский дуэт, нарезка
+Цена товара старая: 199
+Цена товара новая: 139
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/3b6ff762-62a2-11ee-b971-08c0eb32008b
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/b4c287cb-d009-4e5a-b99d-44ec95c38f48.jpg
+Описание товара: Сырокопчёная колбаса Сагуны, Брусничная, из мяса птицы
+Цена товара : 249
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/syrokopchyonaya-kolbasa-papa-mozhet-ohotnichya-220-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/cbf4c7ab-0a71-44ab-8e66-5e8703f5f7d2.jpg
+Описание товара: Сырокопчёная колбаса Папа может, Охотничья
+Цена товара : 249
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/a9e95d01-c28c-11ed-885d-08c0eb32014b
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/03b5f219-bb06-484c-88d6-8f8ae224d578.jpg
+Описание товара: Сырокопчёная колбаса Дым Дымыч, Отличная
+Цена товара старая: 287
+Цена товара новая: 196
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/eaa5013d-3bdf-45f0-b987-2f9d192f3e70
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/3ff1624b-631a-4443-9740-35c1e37ebcee.jpg
+Описание товара: Сырокопчёная колбаса Ремит, Salsa, нарезка
+Цена товара : 199
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/9737d6b8-e665-4ddc-8c50-08f229da747a
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/cb4b17e4-6bd2-488b-b96e-683fe4e1d105.jpg
+Описание товара: Сырокопчёная колбаса Бобровский МК, Коньячная
+Цена товара старая: 259
+Цена товара новая: 217
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/5e08d56d-a279-40fc-8ed9-ac6e835206a5
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/180bd026-0f65-4332-a8d5-4c1c55717479.jpg
+Описание товара: Сырокопчёная колбаса Бобровский МК, Элитная
+Цена товара старая: 279
+Цена товара новая: 231
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/syrovyalenaya-kolbasa-samokat-strolgino-svinaya-s-tryufelem-110-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/49350d0b-83ca-4640-8f1d-2b4b4a638960.jpg
+Описание товара: Сыровяленая колбаса Самокат, Строльгино, из свинины, с трюфелем
+Цена товара : 285
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/e6c0362a-1f4a-4d7d-8b5c-0c68f505a16d
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/690a3aaf-9b68-4e9e-a1e3-a9d95a4757f7.jpg
+Описание товара: Сыровяленая колбаса Останкино, Итальянское ассорти, нарезка
+Цена товара старая: 209
+Цена товара новая: 139
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/sosiski-samokat-iz-kurinoj-grudki-400-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/09db9484-7ae9-4c6e-b9f0-06812d6b6fb8.jpg
+Описание товара: Сосиски Самокат, из куриной грудки
+Цена товара : 275
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/sosiski-samokat-s-syrom-300-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/34ab8e2f-500c-4d8a-9a09-60747a34e42f.jpg
+Описание товара: Сосиски Самокат, с сыром
+Цена товара : 264
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/sosiski-samokat-iz-file-indejki-400-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/7a8ac66be96194e3_4627138615508-1.jpg
+Описание товара: Сосиски Самокат, из филе индейки
+Цена товара : 323
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/sosiski-starodvore-sochinki-po-bavarski-400-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/4f4010473b84c80e_4680115881211-1.jpg
+Описание товара: Сосиски Стародворье Сочинки, По-баварски
+Цена товара старая: 279
+Цена товара новая: 128
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/sosiski-starodvore-sochinki-molochnye-400-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/d6e32d94-48f2-4f50-8998-6b55c7deec9d.jpg
+Описание товара: Сосиски Стародворье Сочинки, Молочные
+Цена товара : 219
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/sosiski-papa-mozhet-domashnie-so-slivkami-500-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/fcea14bf-54ba-4adb-952a-a1f7ec071546.jpg
+Описание товара: Сосиски Папа может, Домашние, со сливками
+Цена товара старая: 279
+Цена товара новая: 199
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/b504b8a3-d850-4787-a72b-a177e78919c8
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/bffe3ec7-100a-444d-a769-b142af682463.jpg
+Описание товара: Сосиски Папа может, Баварские
+Цена товара старая: 269
+Цена товара новая: 169
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/9370c4ea-50a0-46e1-8d05-9f290153ff0e
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/12166747-51d1-40bd-85f4-6c3bdac427e8.jpg
+Описание товара: Сосиски Папа может, Сочный гриль
+Цена товара : 250
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/f6b9c98c-6ac9-11eb-85a3-1c34dae33151
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/96e083fc07cd4e17_4607033367832-1.jpg
+Описание товара: Сосиски Фамильные Колбасы, Баварские, с сыром гауда
+Цена товара старая: 239
+Цена товара новая: 141
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/sosiski-vyazanka-molokushi-molochnye-gost-450-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/original/179504_2137911033.jpg
+Описание товара: Сосиски Вязанка, Молокуши, Молочные
+Цена товара старая: 329
+Цена товара новая: 165
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/d499eda5-365a-11ec-85ad-1c34dae33151
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/076de368bfff2567_4607091383256.jpg
+Описание товара: Сосиски Вязанка, Сливушки, сливочные
+Цена товара : 279
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/184de075-f6b7-11e8-80c5-0cc47a817925
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/37633956-ea69-4419-a6b2-e334663bb6b7.jpg
+Описание товара: Сосиски Великолукский МК, Детям
+Цена товара старая: 229
+Цена товара новая: 149
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/739a14d9-47a8-11ee-885f-08c0eb32014b
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/c3f7ce9a-31c6-4c10-8f50-d677561928e9.jpg
+Описание товара: Сосиски Владимирский стандарт, Баварские
+Цена товара старая: 189
+Цена товара новая: 149
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/sosiski-blizhnie-gorki-slivochnye-450-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/original/6c58ddbe-51bb-11ec-a0ee-ec0d9a21b021_529402382.jpg
+Описание товара: Сосиски Ближние горки, Сливочные
+Цена товара старая: 325
+Цена товара новая: 259
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/9807df46-3009-46c9-b6ff-30c4ec8d5262
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/cb6b9b9f-75f6-42bd-b22d-a5137366715e.jpg
+Описание товара: Варёные cосиски Кузминки, Мясные
+Цена товара старая: 239
+Цена товара новая: 110
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/bekon-samokat-iz-svininy-syrokopchyonyj-narezka-150-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/8c77433b-f477-4f41-ba50-8d200deee6a2.jpg
+Описание товара: Сырокопчёный бекон Самокат, из свинины, нарезка
+Цена товара : 215
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/vetchina-indilajt-mramornaya-narezka-120-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/a86312352779cad8_4630053877852-1.jpg
+Описание товара: Ветчина Индилайт, Мраморная, нарезка
+Цена товара старая: 169
+Цена товара новая: 99
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/bekon-syrokopchyonyj-miratorg-iz-svininy-narezka-200-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/3b9d4a36-9729-4e01-816d-5cb69987c362.jpg
+Описание товара: Сырокопчёный бекон Мираторг, из свинины, нарезка
+Цена товара старая: 273
+Цена товара новая: 149
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/38307aed-6961-11ec-b0fc-08c0eb31fffb
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/874352800f565311_4640017931247-1.jpg
+Описание товара: Ветчина Знаменские деликатесы, По итальянскому рецепту, нарезка
+Цена товара : 119
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbasa-varyonaya-samokat-doktorskaya-v-narezke-kategoriya-a-200-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/f0dde6b7833d3e16_4627138615713-1.jpg
+Описание товара: Докторская колбаса Самокат, нарезка
+Цена товара старая: 208
+Цена товара новая: 165
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/bekon-samokat-iz-svininy-syrokopchyonyj-narezka-150-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/8c77433b-f477-4f41-ba50-8d200deee6a2.jpg
+Описание товара: Сырокопчёный бекон Самокат, из свинины, нарезка
+Цена товара : 215
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kopchyono-varyonaya-buzhenina-samokat-narezka-150-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/80caa295-abec-470d-aeab-57bb5a6205af.jpg
+Описание товара: Копчёно-варёная буженина Самокат, нарезка
+Цена товара : 175
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/83d369aa-0f76-484c-9431-aea5b2a2fa98
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/fa011150-3edc-4cce-bdc5-48636b70c224.jpeg
+Описание товара: Сырокопчёная колбаса Самокат, Каринтия, нарезка
+Цена товара : 199
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/narezka-kolbasy-remit-trio-mio-assorti-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/3d61fa79-c5bc-4f68-b434-355fc686f325.jpg
+Описание товара: Ассорти сырокопчёных колбас Ремит Trio Mio, Сальчичон, Княжеская Трапеза и Миланская салями
+Цена товара : 255
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/eaa5013d-3bdf-45f0-b987-2f9d192f3e70
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/3ff1624b-631a-4443-9740-35c1e37ebcee.jpg
+Описание товара: Сырокопчёная колбаса Ремит, Salsa, нарезка
+Цена товара : 199
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/cf2a1c2b-ef08-11e8-80c5-0cc47a817925
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/ef2a1c23f6599f45_4601296006316-1.jpg
+Описание товара: Сырокопчёная салями Останкино, Итальянская, нарезка
+Цена товара старая: 229
+Цена товара новая: 189
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/7d935be4-adca-437c-93a4-856452fe66e6
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/3d55d5ce-975b-4b17-a1c9-6fae3d92eaac.jpg
+Описание товара: Копчёно-варёное ассорти Останкино, свиной балык и шейка, нарезка
+Цена товара старая: 199
+Цена товара новая: 129
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/e6c0362a-1f4a-4d7d-8b5c-0c68f505a16d
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/690a3aaf-9b68-4e9e-a1e3-a9d95a4757f7.jpg
+Описание товара: Сыровяленая колбаса Останкино, Итальянское ассорти, нарезка
+Цена товара старая: 209
+Цена товара новая: 139
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/8a101305-2ea4-486c-9c4b-5ed3e1029e00
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/407610df-fe97-4a89-8552-f2a08724a4c4.jpg
+Описание товара: Сырокопчёная колбаса Останкино, Неаполитанский дуэт, нарезка
+Цена товара старая: 199
+Цена товара новая: 139
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbasa-egorevskaya-kgf-braunshvejgskaya-syrokopchyonaya-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/4c91bf510689f1a6_4607104819178.jpg
+Описание товара: Сырокопчёная колбаса Егорьевская КГФ, Брауншвейгская
+Цена товара старая: 218
+Цена товара новая: 175
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/4918a6d7-b46e-4618-80da-0bf87785f0ef
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/685665a8-796e-4713-b953-f3eb4911bdc4.jpg
+Описание товара: Варёно-копчёная колбаса Папа может, ассорти, мраморная и балыковая, нарезка
+Цена товара старая: 159
+Цена товара новая: 119
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/vetchina-indilajt-mramornaya-narezka-120-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/a86312352779cad8_4630053877852-1.jpg
+Описание товара: Ветчина Индилайт, Мраморная, нарезка
+Цена товара старая: 169
+Цена товара новая: 99
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/grudka-indejki-samokat-syrovyalenaya-v-narezke-150-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/6213b8cb3e314437_4607056956754-1.jpg
+Описание товара: Сыровяленая грудка индейки Самокат, нарезка
+Цена товара : 356
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kopchyono-varyonaya-buzhenina-samokat-narezka-150-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/80caa295-abec-470d-aeab-57bb5a6205af.jpg
+Описание товара: Копчёно-варёная буженина Самокат, нарезка
+Цена товара : 175
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/karbonad-varyono-kopchyonyj-samokat-iz-svininy-narezka-v-vakuume-150-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/a451f9b64a0d239e_4627138615089-1.jpg
+Описание товара: Варёно-копчёный карбонад Самокат, из свинины, нарезка
+Цена товара : 199
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/ryobryshki-kopchyono-varyonye-remit-k-pivu-300-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/original/130136_1903309349.jpg
+Описание товара: Копчёно-варёные рёбрышки Ремит, К пиву
+Цена товара : 329
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/7d935be4-adca-437c-93a4-856452fe66e6
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/3d55d5ce-975b-4b17-a1c9-6fae3d92eaac.jpg
+Описание товара: Копчёно-варёное ассорти Останкино, свиной балык и шейка, нарезка
+Цена товара старая: 199
+Цена товара новая: 129
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/karbonad-po-egorevski-kopchyono-varyonyj-narezka-vakuum-115-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/fe500fe3042f9446_4607104812940-1.jpg
+Описание товара: Копчёный-варёный карбонад Егорьевская КГФ, По-егорьевски, нарезка
+Цена товара старая: 185
+Цена товара новая: 155
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/b2f07274-bc98-11eb-85ab-1c34dae33151
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/5b8f8e5d1558ec16_c67b65e7-91c6-11ed-885d-08c0eb32014b.jpg
+Описание товара: Карпаччо Сагуны, из мяса птицы
+Цена товара : 142
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/b92d8ebe-bc98-11eb-85ab-1c34dae33151
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/original/141205_484771832.jpg
+Описание товара: Копчёно-варёная грудка птицы Сагуны
+Цена товара : 249
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/ce0a64da-353e-11ee-885f-08c0eb32014b
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/ee3fc521-b1dc-4635-b21a-b8148f15e5c9.jpg
+Описание товара: Филе грудки индейки Индилайт, обжаренное на гриле, нарезка
+Цена товара старая: 199
+Цена товара новая: 100
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/holodec-samokat-s-govyadinoj-300-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/cee8409a-fa1c-443b-a7f8-0a2159c353a6.jpg
+Описание товара: Холодец Самокат, с говядиной
+Цена товара : 235
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/grudka-indejki-samokat-syrovyalenaya-v-narezke-150-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/6213b8cb3e314437_4607056956754-1.jpg
+Описание товара: Сыровяленая грудка индейки Самокат, нарезка
+Цена товара : 356
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/sosiski-samokat-iz-file-indejki-400-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/7a8ac66be96194e3_4627138615508-1.jpg
+Описание товара: Сосиски Самокат, из филе индейки
+Цена товара : 323
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/sosiski-samokat-iz-kurinoj-grudki-400-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/09db9484-7ae9-4c6e-b9f0-06812d6b6fb8.jpg
+Описание товара: Сосиски Самокат, из куриной грудки
+Цена товара : 275
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/vetchina-indilajt-mramornaya-narezka-120-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/a86312352779cad8_4630053877852-1.jpg
+Описание товара: Ветчина Индилайт, Мраморная, нарезка
+Цена товара старая: 169
+Цена товара новая: 99
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/ce0a64da-353e-11ee-885f-08c0eb32014b
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/ee3fc521-b1dc-4635-b21a-b8148f15e5c9.jpg
+Описание товара: Филе грудки индейки Индилайт, обжаренное на гриле, нарезка
+Цена товара старая: 199
+Цена товара новая: 100
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/b2f07274-bc98-11eb-85ab-1c34dae33151
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/5b8f8e5d1558ec16_c67b65e7-91c6-11ed-885d-08c0eb32014b.jpg
+Описание товара: Карпаччо Сагуны, из мяса птицы
+Цена товара : 142
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/b92d8ebe-bc98-11eb-85ab-1c34dae33151
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/original/141205_484771832.jpg
+Описание товара: Копчёно-варёная грудка птицы Сагуны
+Цена товара : 249
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/3b6ff762-62a2-11ee-b971-08c0eb32008b
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/b4c287cb-d009-4e5a-b99d-44ec95c38f48.jpg
+Описание товара: Сырокопчёная колбаса Сагуны, Брусничная, из мяса птицы
+Цена товара : 249
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/3f628ce5-9420-458e-bcf8-b0b8fec76cd7
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/e733beb7-aa7b-41b1-b8c9-5e52caaede71.jpg
+Описание товара: Паштет Самокат, с куриной печенью и черносливом
+Цена товара : 179
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/pashtet-samokat-iz-pecheni-indejki-s-klyukvoj-i-bazilikom-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/original/958feeed-2ec6-11ed-885a-08c0eb32014b_1216902194.jpg
+Описание товара: Паштет Самокат, из печени индейки, с клюквой и базиликом
+Цена товара : 103
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/pashtet-samokat-iz-pecheni-indejki-s-greckim-orehom-i-timyanom-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/original/8f3c2246-2ec6-11ed-885a-08c0eb32014b_1344296594.jpg
+Описание товара: Паштет Самокат, из печени индейки, с грецким орехом и тимьяном
+Цена товара : 103
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/pashtet-samokat-iz-myasa-indejki-s-gribami-i-provanskimi-travami-100-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/original/958feef2-2ec6-11ed-885a-08c0eb32014b_1371606958.jpg
+Описание товара: Паштет Самокат, из индейки, с грибами и прованскими травами
+Цена товара : 103
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/bbea3a23-df8d-11e9-ac53-005056030656
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/ef16a8b3-06a7-485f-9793-29806aea1ef6.jpg
+Описание товара: Паштет Hame, с гусиной печенью
+Цена товара : 85
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/b0034327-1d1a-11eb-8599-1c34dae33151
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/5a780849-f882-4e0c-8292-9b6ae7f70613.jpg
+Описание товара: Паштет Hame, с индейкой
+Цена товара старая: 85
+Цена товара новая: 67
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/df0bf464-5c4b-11ee-ae78-08c0eb320147
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/889e723b-2e4d-49e0-b0a6-e99e8ff9d2c3.jpg
+Описание товара: Паштет Hame, из мяса кролика
+Цена товара : 159
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/pashtet-argeta-iz-kuricy-95-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/8671293402a66706_3838975566804.jpg
+Описание товара: Паштет Argeta, из курицы
+Цена товара : 143
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/731602f7-02cb-11e9-80c5-0cc47a817925
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/d0d0f39e9b6c0363_3838975566460.jpg
+Описание товара: Паштет Argeta, из тунца
+Цена товара : 229
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/pashtet-egorevskaya-kgf-derevenskij-iz-pecheni-150-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/4844c6b58b3d0c80_4607104814494-1.jpg
+Описание товара: Паштет Егорьевская КГФ, Деревенский, из печени
+Цена товара старая: 155
+Цена товара новая: 129
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/767a0aab-7f9c-11ee-b973-08c0eb32008b
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/f629679d-3945-4132-9999-d134e09e75d4.jpg
+Описание товара: Карпаччо Reeel, из мяса курицы
+Цена товара старая: 240
+Цена товара новая: 192
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/bee3bf1a-25b8-11eb-8599-1c34dae33151
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/f9f54a18c0182ace_4610028270024.jpg
+Описание товара: Сыровяленые куриные ломтики Вкусы мира, Кавказские
+Цена товара : 195
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbaski-syrokopchyonye-dymov-pikolini-slim-so-vkusom-hamona-70-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/dce2ecae3dfe8ea4_4620031247746-1.jpg
+Описание товара: Сырокопчёные колбаски Дымов, Пиколини Slim, со вкусом хамона
+Цена товара старая: 220
+Цена товара новая: 176
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/0c9f0036-58ae-11ea-8385-0050560306e1
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/c4592a2916e7cbdb_4680003507827-1.jpg
+Описание товара: Сыровяленые чипсы Дымов, из индейки, с чёрным перцем
+Цена товара старая: 144
+Цена товара новая: 115
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbaski-dymov-pikolini-syrokopchyonye-so-vkusom-hamona-50-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/62d2abab05b51438_4680003507568.jpg
+Описание товара: Сырокопчёные колбаски Дымов Пиколини, со вкусом хамона
+Цена товара старая: 89
+Цена товара новая: 68
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/kolbaski-syrokopchyonye-dymov-pikolini-slim-ostrye-70-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/f623058cb22de517_4620031247753-1.jpg
+Описание товара: Сырокопчёные колбаски Дымов, Пиколини Slim, острые
+Цена товара старая: 176
+Цена товара новая: 123
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/chipsy-syrovyalenye-dymov-iz-svininy-klassicheskie-25-g
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/public/ca8cd35ac5832557_4680003507834-1.jpg
+Описание товара: Сыровяленые чипсы Дымов, из свинины
+Цена товара старая: 115
+Цена товара новая: 92
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/4e47cfae-fe8f-48db-ba93-512a921e6cdd
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/70563ffb-9b86-433e-9f39-da66cc28faa3.jpg
+Описание товара: Вяленое мясо Дымов, ломтики, паприка
+Цена товара : 149
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/da0d0809-cc53-4a0d-90d8-3bb942bffb6c
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/7149829e-8734-473c-8cab-eddc2f758cc9.jpg
+Описание товара: Вяленое мясо Дымов, ломтики
+Цена товара : 149
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/4ad3d1f0-abe8-425a-afdf-d1f74ead6850
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/2ea5fb44-38eb-41f6-b4f7-ad81a151bd9f.jpeg
+Описание товара: Сухиничи Мираторг, из куриного филе
+Цена товара : 169
+ 
+Город доставки: Липецк
+Адрес доставки: Вермишева,4
+Имя категории: Мясо и рыба
+Имя дополнительной категории: Колбаса и сосиски
+Ссылка товара: https://samokat.ru/product/e35959c6-8178-429e-8e04-3c39661a70db
+Url изображения категории: https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg
+URL изображения: https://cm.samokat.ru/processed/m/product_card/a3b00254-aaf0-41e9-93dc-8caba2d5aa6c.jpeg
+Описание товара: Сухиничи Мираторг, из мраморной говядины
+Цена товара : 265
  
