@@ -26,7 +26,7 @@ func main() {
 		return
 	}
 
-	Log_init()
+	Loginit()
 
 	configg := data.WebDriverConfig{
 		SeleniumPath:  data.SeleniumPath,
@@ -39,7 +39,7 @@ func main() {
 		Logger.Error("Ошибка при запуске WebDriver:", zap.Error(err))
 		return
 	}
-	defer wd.Quit()
+	defer wd.Quit() //nolint
 
 	if err := header.SetRequestHeaders(wd); err != nil {
 		log.Fatalf("Failed to set request headers: %v", err)
@@ -71,7 +71,7 @@ func main() {
 				continue
 			}
 
-			data.CategoryLinks[link] = categoryName
+			data.CategoryLinks[link] = strings.TrimSpace(categoryName)
 		}
 	}
 
@@ -80,6 +80,8 @@ func main() {
 		fmt.Println("Ошибка при поиске элементов:", err)
 		return
 	}
+	//  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+	time.Sleep(500 * time.Second)
 
 	if len(elements) == 0 {
 		fmt.Println("Элементы не найдены")
@@ -194,7 +196,7 @@ func main() {
 		Logger.Error("goguery документ не создан", zap.Error(err))
 	}
 
-	Doc.Find(".CatalogTreeSectionCard_name__DKRiD").Each(func(i int, s *goquery.Selection) {
+	Doc.Find(".CatalogTreeSectionCard_name__DKRiD").Each(func(_ int, s *goquery.Selection) {
 		mainCategory := s.Text()
 		parent := s.Parent()
 		additionalCategories := parent.Next().Text()
@@ -206,15 +208,14 @@ func main() {
 			category = strings.TrimSpace(category)
 			additionalCategories = strings.TrimSuffix(additionalCategories, ",")
 			if category != "" {
-				println("category  mainCategory", category, mainCategory)
 				data.CategoryMap[category] = mainCategory
 			}
 		}
 	})
 
-	file_categ := fmt.Sprintf("%s.txt", data.CategoryMap[data.CategoryLinks[cfg.BaseURL]])
+	filecateg := fmt.Sprintf("%s.txt", data.CategoryMap[data.CategoryLinks[cfg.BaseURL]])
 
-	file, err := os.Create(file_categ)
+	file, err := os.Create(filecateg)
 	if err != nil {
 		fmt.Println("Ошибка при создании файла:", err)
 		return
@@ -229,7 +230,7 @@ func main() {
 	var imageURLs []string
 	var texts []string
 
-	Doc.Find(".CatalogTreeSectionCard_image__uobnI").Each(func(i int, s *goquery.Selection) {
+	Doc.Find(".CatalogTreeSectionCard_image__uobnI").Each(func(_ int, s *goquery.Selection) {
 		style, exists := s.Attr("style")
 
 		if exists {
@@ -241,7 +242,7 @@ func main() {
 		}
 	})
 
-	Doc.Find(".CatalogTreeSectionCard_name__DKRiD").Each(func(i int, s *goquery.Selection) {
+	Doc.Find(".CatalogTreeSectionCard_name__DKRiD").Each(func(_ int, s *goquery.Selection) {
 		text := s.Text()
 		text = strings.Replace(text, "Пасха", "пасха", -1)
 		texts = append(texts, text)
@@ -255,7 +256,7 @@ func main() {
 
 	slideElements := Doc.Find(".ProductCard_root__OBGd_")
 	var price string
-	var price_new string
+	var pricenew string
 
 	slideElements.Each(func(i int, s *goquery.Selection) {
 		text := s.Text()
@@ -268,30 +269,30 @@ func main() {
 			switch len(numericPrice) {
 			case 2:
 				price = numericPrice[:2]
-				price_new = price
+				pricenew = price
 
 			case 3:
 				price = numericPrice[:3]
-				price_new = price
+				pricenew = price
 
 			case 4:
 				price = numericPrice[:2]
-				price_new = numericPrice[2:4]
+				pricenew = numericPrice[2:4]
 			case 5:
 				price = numericPrice[:3]
-				price_new = numericPrice[3:5]
+				pricenew = numericPrice[3:5]
 
 			case 6:
 				price = numericPrice[:3]
-				price_new = numericPrice[3:6]
+				pricenew = numericPrice[3:6]
 
 			case 7:
 				price = numericPrice[:4]
-				price_new = numericPrice[4:7]
+				pricenew = numericPrice[4:7]
 
 			case 8:
 				price = numericPrice[:4]
-				price_new = numericPrice[4:8]
+				pricenew = numericPrice[4:8]
 
 			default:
 				price = numericPrice
@@ -318,17 +319,17 @@ func main() {
 
 		util.PrintProductDetails(writer, cfg, href)
 
-		s.Children().Each(func(j int, child *goquery.Selection) {
+		s.Children().Each(func(_ int, child *goquery.Selection) {
 			childtext := child.Text()
 			firstNumberIndex := util.FindFirstNumberIndex(childtext)
 			if firstNumberIndex >= 0 {
 				description := child.Text()[:firstNumberIndex]
 				if len(description) > 3 {
-					util.PrintProductInfo(description, price, price_new, writer)
+					util.PrintProductInfo(description, price, pricenew, writer)
 				}
 			}
 
-			child.Find("img").Each(func(k int, img *goquery.Selection) {
+			child.Find("img").Each(func(_ int, img *goquery.Selection) {
 				src, exists := img.Attr("src")
 				if exists {
 					fmt.Fprintf(writer, "URL изображения: %s\n", src)

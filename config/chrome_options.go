@@ -20,8 +20,11 @@ func CreateChromeOptions(cfg *Config) chrome.Capabilities {
 			"--disable-automation",
 			"--disable-extensions",
 			"--disable-translate",
+
+			"--disable-dev-shm-usage",
 		},
 	}
+
 	return options
 }
 
