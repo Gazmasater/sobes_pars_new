@@ -1,3 +1,8 @@
+Обнаружение Селениум
+
+https://blog.browserscan.net/ru/docs/how-to-avoid-selenium-detection
+
+
 ГУГЛ ХРОМ
 
 https://mirror.cs.uchicago.edu/google-chrome/pool/main/g/google-chrome-stable/
