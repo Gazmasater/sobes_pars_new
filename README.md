@@ -1,3 +1,7 @@
+https://mirror.cs.uchicago.edu/google-chrome/pool/main/g/google-chrome-stable/
+
+
+
 Тем не менее, существует обходной путь:
 можно сначала открыть пустую страницу (about:blank), 
 выполнить необходимый JavaScript для изменения window.navigator.webdriver, а затем уже загрузить целевую страницу.
