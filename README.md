@@ -1,3 +1,7 @@
+Определить версию undetected
+
+pip show undetected-chromedriver
+
 ВЕРСИИ undetected
 
 (newenv) gaz358@Home-PC:~/mygo/sobes_pars_new$ pip install undetected-chromedriver==2.9.0
