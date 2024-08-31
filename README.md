@@ -1,4 +1,8 @@
+ВЕРСИИ undetected
 
+(newenv) gaz358@Home-PC:~/mygo/sobes_pars_new$ pip install undetected-chromedriver==2.9.0
+ERROR: Ignored the following yanked versions: 3.1.5
+ERROR: Could not find a version that satisfies the requirement undetected-chromedriver==2.9.0 (from versions: 1.3.5, 1.3.6, 1.3.7, 1.4.0, 1.4.2, 1.5.0, 1.5.1, 1.5.2, 2.0b0, 2.0.0, 2.0.1, 2.0.2, 2.1.0, 2.1.1, 2.1.2, 2.2.0, 2.2.1, 2.2.7, 3.0.0, 3.0.1, 3.0.2, 3.0.3, 3.0.4, 3.0.5, 3.0.6, 3.1.0rc1, 3.1.0, 3.1.1, 3.1.2, 3.1.3, 3.1.5.post1, 3.1.5.post2, 3.1.5.post3, 3.1.5.post4, 3.1.6, 3.1.7, 3.2.0a0, 3.2.0, 3.2.1, 3.4, 3.4.1, 3.4.2, 3.4.4, 3.4.5, 3.4.6, 3.4.7, 3.5.0, 3.5.1a0, 3.5.1, 3.5.2, 3.5.3, 3.5.4, 3.5.5)
 
 ГУГЛ ХРОМ
 
